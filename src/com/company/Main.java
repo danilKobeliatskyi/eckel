@@ -47,5 +47,8 @@ public class Main {
 
         MetodFinalize f = new MetodFinalize();
         f.finalize();
+
+        Tank tank = new Tank();
+        tank.finalize();
     }
 }
