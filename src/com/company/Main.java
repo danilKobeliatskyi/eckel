@@ -50,5 +50,11 @@ public class Main {
 
         Tank tank = new Tank();
         tank.finalize();
+
+        System.out.println("Inside main");
+        Cups.cup1.f(99);
+
+        StaticMetod staticMetod = new StaticMetod();
+        staticMetod.initializatiom();
     }
 }
