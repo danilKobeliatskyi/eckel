@@ -1,7 +1,5 @@
 package com.company;
 import com.chapter6.*;
-import com.debug.*;
-import com.debugoff.*;
 
 public class Main {
 
