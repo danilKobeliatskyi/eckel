@@ -63,5 +63,8 @@ public class Main {
         massivs.massivs(args);
         MassiveWhithConstructor mass = new MassiveWhithConstructor();
         mass.massive(args);
+
+        VariableLength v = new VariableLength();
+        v.f(args);
     }
 }
