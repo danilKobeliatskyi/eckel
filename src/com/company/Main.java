@@ -79,5 +79,8 @@ public class Main {
         debug.debug();
         com.debugoff.Debug debugoff = new com.debugoff.Debug();
         debugoff.debug();
+
+        Widget widget = new Widget();
+        widget.widget();
     }
 }
