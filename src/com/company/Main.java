@@ -1,4 +1,5 @@
 package com.company;
+import com.chapter6.*;
 
 public class Main {
 
@@ -70,5 +71,8 @@ public class Main {
         Enum e = new Enum(Valute.GRIVNA);
         e.simpleEnum();
         e.countrie();
+
+        Exercise1 ex = new Exercise1();
+        ex.exercise();
     }
 }
