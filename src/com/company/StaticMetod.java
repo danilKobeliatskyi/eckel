@@ -6,7 +6,7 @@ public class StaticMetod {
     static {
         s2 = "in a separate field";
     }
-    void initializatiom(){
+    void initialization(){
         System.out.println(s1);
         System.out.println(s2);
     }

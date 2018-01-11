@@ -55,6 +55,8 @@ public class Main {
         Cups.cup1.f(99);
 
         StaticMetod staticMetod = new StaticMetod();
-        staticMetod.initializatiom();
+        staticMetod.initialization();
+
+        InitializationSections initializationSections = new InitializationSections();
     }
 }
