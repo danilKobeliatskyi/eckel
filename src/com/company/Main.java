@@ -58,5 +58,10 @@ public class Main {
         staticMetod.initialization();
 
         InitializationSections initializationSections = new InitializationSections();
+
+        Massivs massivs = new Massivs();
+        massivs.massivs(args);
+        MassiveWhithConstructor mass = new MassiveWhithConstructor();
+        mass.massive(args);
     }
 }
