@@ -66,5 +66,9 @@ public class Main {
 
         VariableLength v = new VariableLength();
         v.f(args);
+
+        Enum e = new Enum(Valute.GRIVNA);
+        e.simpleEnum();
+        e.countrie();
     }
 }
