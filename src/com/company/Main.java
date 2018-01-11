@@ -1,5 +1,7 @@
 package com.company;
 import com.chapter6.*;
+import com.debug.*;
+import com.debugoff.*;
 
 public class Main {
 
@@ -74,5 +76,10 @@ public class Main {
 
         Exercise1 ex = new Exercise1();
         ex.exercise();
+
+        com.debug.Debug debug = new com.debug.Debug();
+        debug.debug();
+        com.debugoff.Debug debugoff = new com.debugoff.Debug();
+        debugoff.debug();
     }
 }
