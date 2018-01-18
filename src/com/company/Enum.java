@@ -4,6 +4,7 @@ enum Valute{
     DOLLARS, EURO, GRIVNA, RUBL, FRANKS, SHEIKEL
 }
 
+
 public class Enum {
 
     public static void simpleEnum(){
@@ -34,7 +35,7 @@ public class Enum {
 
     public Enum(Valute countrie){this.countrie = countrie;}
 
-    public void countrie(){
+    public static void countrie(){
         Enum usa = new Enum(Valute.DOLLARS);
         Enum poland = new Enum(Valute.EURO);
         Enum ucraine = new Enum(Valute.GRIVNA);

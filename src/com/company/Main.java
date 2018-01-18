@@ -68,19 +68,14 @@ public class Main {
         VariableLength v = new VariableLength();
         v.f(args);
 
-        Enum e = new Enum(Valute.GRIVNA);
-        e.simpleEnum();
-        e.countrie();
+        Enum.simpleEnum();
+        Enum.countrie();
 
-        Exercise1 ex = new Exercise1();
-        ex.exercise();
+        Exercise1.exercise();
 
-        com.debug.Debug debug = new com.debug.Debug();
-        debug.debug();
         com.debugoff.Debug debugoff = new com.debugoff.Debug();
         debugoff.debug();
 
-        Widget widget = new Widget();
-        widget.widget();
+        Widget.widget();
     }
 }
