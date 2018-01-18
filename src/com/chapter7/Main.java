@@ -43,6 +43,7 @@ public class Main {
     frog.eat(frog);
 
         FinalData fd = new FinalData();
+        FinalData.vasiy++;
         //fd.a++;
         //fd.A++;
         int data1 = fd.a.i++;

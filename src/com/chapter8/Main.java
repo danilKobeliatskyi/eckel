@@ -2,7 +2,7 @@ package com.chapter8;
 
 public class Main {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         Rize d = new Rize();
         Unicycle u = new Unicycle();
@@ -19,7 +19,8 @@ public class Main {
         for (Shape shp : s) {
             shp.draw();
             shp.ears();
-            shp.word();}
+            shp.word();
+        }
 
         Music music = new Music();
         System.out.println(Wind.what());
@@ -28,7 +29,7 @@ public class Main {
             orchestra[j] = music.next();
         }
 
-            music.tuneAll(orchestra);
+        music.tuneAll(orchestra);
 
         Cage cage = new Cage();
         Rodent[] r = new Rodent[9];
@@ -43,5 +44,19 @@ public class Main {
         f.players(22);
 
         Sandwich sandwich = new Sandwich();
+
+        Shared shared = new Shared();
+        Composing[] composing = {
+
+                new Composing(shared),
+                new Composing(shared),
+                new Composing(shared),
+                new Composing(shared),
+                new Composing(shared)
+        };
+        for (Composing c : composing) {
+            c.dispose();
+        }
     }
 }
+
