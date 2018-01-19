@@ -21,6 +21,11 @@ class Unicycle extends Cycle{
         wills(1);
     }
 
+    public void balance(){
+
+        System.out.println("downtrend in class Unicycle");
+    }
+
 }
 
 class Bicycle extends Cycle{
@@ -31,6 +36,10 @@ class Bicycle extends Cycle{
         wills(2);
     }
 
+    public void balance(){
+
+        System.out.println("downtrend in class Bicycle");
+    }
 }
 
 class Tricycle extends Cycle{

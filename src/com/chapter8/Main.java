@@ -70,6 +70,17 @@ public class Main {
         alertStatus.status();
         alertStatus.alertHigh();
         alertStatus.status();
+
+        Cycle[] cycles = {
+                new Unicycle(),
+                new Bicycle(),
+                new Tricycle()
+        };
+        /*for (Cycle c : cycles){
+            //c.balance();
+            }*/
+        ((Unicycle)cycles[0]).balance();
+        ((Bicycle)cycles[1]).balance();
     }
 }
 
