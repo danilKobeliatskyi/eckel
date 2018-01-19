@@ -1,4 +1,4 @@
-package com.chapter8;
+package com.chapter9;
 
 public abstract class AbstractClass {
 

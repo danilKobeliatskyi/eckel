@@ -1,7 +1,5 @@
 package com.chapter9;
 
-import com.chapter8.AbstractClass;
-
 public class Main {
 
     public static void main(String[] args){
@@ -18,5 +16,8 @@ public class Main {
         }
 
        //AbstractClass abstractClass = new AbstractClass() {};
+
+        Document document = new Document();
+        document.print();
     }
 }
