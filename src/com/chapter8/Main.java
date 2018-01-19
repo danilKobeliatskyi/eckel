@@ -62,6 +62,14 @@ public class Main {
 
         RectangularGlyph rectangularGlyph = new RectangularGlyph(5);
 
+        AlertStatus alertStatus = new AlertStatus();
+        alertStatus.status();
+        alertStatus.alertLow();
+        alertStatus.status();
+        alertStatus.alertMiddle();
+        alertStatus.status();
+        alertStatus.alertHigh();
+        alertStatus.status();
     }
 }
 
