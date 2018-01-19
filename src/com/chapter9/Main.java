@@ -21,5 +21,10 @@ public class Main {
         document.print();
 
         Table.from();
+
+        Book book = new Book();
+        book.open();
+        book.number(234);
+        book.close();
     }
 }
