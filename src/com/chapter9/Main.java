@@ -64,6 +64,5 @@ public class Main {
         j(speedCar);
 
         Scanner scanner = new Scanner(new Transformer(20));
-        //System.out.println(scanner);
     }
 }
