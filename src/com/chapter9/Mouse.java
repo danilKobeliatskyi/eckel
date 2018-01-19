@@ -1,19 +1,19 @@
 package com.chapter9;
 
-public class Mouse extends Rodent {
+public class Mouse implements Rodent {
 
     Mouse(){
 
         System.out.println("Mouse");
     }
 
-    protected void eat(){
+    public void eat(){
 
         System.out.println("Mouse eats cheese");
     }
 
 
-    protected void coat(){
+    public void coat(){
 
         System.out.println("coat white or gray");
     }

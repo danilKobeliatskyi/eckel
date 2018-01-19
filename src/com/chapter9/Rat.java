@@ -1,19 +1,19 @@
 package com.chapter9;
 
-public class Rat extends Rodent {
+public class Rat implements Rodent {
 
     Rat(){
 
         System.out.println("Rat");
     }
 
-    protected void eat(){
+    public void eat(){
 
         System.out.println("Rat eats everything");
     }
 
 
-    protected void coat(){
+    public void coat(){
 
         System.out.println("coat gray");
     }

@@ -1,13 +1,7 @@
 package com.chapter9;
 
-public abstract class Rodent{
+public interface Rodent{
 
-    Rodent(){
-
-        System.out.println("Rodent");
-    }
-
-    protected abstract void eat();
-
-    protected abstract void coat();
+    void eat();
+    void coat();
 }
