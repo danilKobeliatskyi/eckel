@@ -19,5 +19,7 @@ public class Main {
 
         Document document = new Document();
         document.print();
+
+        Table.from();
     }
 }
