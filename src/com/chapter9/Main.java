@@ -26,5 +26,8 @@ public class Main {
         book.open();
         book.number(234);
         book.close();
+
+        Sandwich sandwich = new Sandwich();
+        sandwich.name();
     }
 }
