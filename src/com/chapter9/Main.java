@@ -42,5 +42,9 @@ public class Main {
         };
 
         tuneAll(orchestra);
+
+        Transformation t = new Transformation();
+        t.transformation("может что-то да получится");
+
     }
 }
