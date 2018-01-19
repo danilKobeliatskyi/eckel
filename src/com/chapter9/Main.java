@@ -1,5 +1,7 @@
 package com.chapter9;
 
+import com.chapter8.AbstractClass;
+
 public class Main {
 
     public static void main(String[] args){
@@ -14,5 +16,7 @@ public class Main {
             r.eat();
             r.coat();
         }
+
+       //AbstractClass abstractClass = new AbstractClass() {};
     }
 }
