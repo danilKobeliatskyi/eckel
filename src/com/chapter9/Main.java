@@ -2,6 +2,7 @@ package com.chapter9;
 
 import static com.chapter9.Adventure.*;
 import static com.chapter9.Music.tuneAll;
+import static com.chapter9.Raising.*;
 
 public class Main {
 
@@ -53,5 +54,11 @@ public class Main {
         v(hero);
         w(hero);
         c(hero);
+
+        SpeedCar speedCar = new SpeedCar();
+        n(speedCar);
+        k(speedCar);
+        m(speedCar);
+        j(speedCar);
     }
 }
