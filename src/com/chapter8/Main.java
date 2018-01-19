@@ -31,12 +31,15 @@ public class Main {
 
         music.tuneAll(orchestra);
 
-        Cage cage = new Cage();
-        Rodent[] r = new Rodent[9];
-        for (int k = 0; k < orchestra.length; k++)
-            r[k] = cage.next();
+        Characteristic characteristic = new Characteristic();
+        Rodent[] r = {
+                new Rodent(characteristic),
+                new Hamster(characteristic),
+                new Rat(characteristic),
+                new Mouse(characteristic),
+                new Badger(characteristic)
+        };
         for (Rodent rodent : r) {
-            rodent.what();
             rodent.dispose();
         }
 
