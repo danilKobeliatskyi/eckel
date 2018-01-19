@@ -1,5 +1,7 @@
 package com.chapter9;
 
+import static com.chapter9.Music.tuneAll;
+
 public class Main {
 
     public static void main(String[] args){
@@ -29,5 +31,16 @@ public class Main {
 
         Sandwich sandwich = new Sandwich();
         sandwich.name();
+
+        Instrument[] orchestra = {
+
+                new Wind(),
+                new Percussion(),
+                new Stringed(),
+                new Brass(),
+                new Woodwind()
+        };
+
+        tuneAll(orchestra);
     }
 }
