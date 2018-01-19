@@ -2,14 +2,14 @@ package com.chapter9;
 
 public class Music {
 
-    static void tune(Instrument i){
+    static void tune(Playable i){
 
         i.play(Note.MIDDLE_C);
     }
 
-    static void tuneAll(Instrument[] e){
+    static void tuneAll(Playable[] e){
 
-        for (Instrument i : e)
+        for (Playable i : e)
             tune(i);
     }
 }

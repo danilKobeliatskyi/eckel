@@ -32,7 +32,7 @@ public class Main {
         Sandwich sandwich = new Sandwich();
         sandwich.name();
 
-        Instrument[] orchestra = {
+        Playable[] orchestra = {
 
                 new Wind(),
                 new Percussion(),
