@@ -57,9 +57,11 @@ public class Main {
                 new Composing(shared),
                 new Composing(shared)
         };
-        for (Composing c : composing) {
+        for (Composing c : composing)
             c.dispose();
-        }
+
+        RectangularGlyph rectangularGlyph = new RectangularGlyph(5);
+
     }
 }
 
