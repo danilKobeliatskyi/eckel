@@ -1,5 +1,7 @@
 package com.chapter9;
 
+import java.util.Scanner;
+
 import static com.chapter9.Adventure.*;
 import static com.chapter9.Music.tuneAll;
 import static com.chapter9.Raising.*;
@@ -60,5 +62,8 @@ public class Main {
         k(speedCar);
         m(speedCar);
         j(speedCar);
+
+        Scanner scanner = new Scanner(new Transformer(20));
+        //System.out.println(scanner);
     }
 }
