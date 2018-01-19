@@ -1,5 +1,6 @@
 package com.chapter9;
 
+import static com.chapter9.Adventure.*;
 import static com.chapter9.Music.tuneAll;
 
 public class Main {
@@ -46,5 +47,11 @@ public class Main {
         Transformation t = new Transformation();
         t.transformation("может что-то да получится");
 
+        Hero hero = new Hero();
+        t(hero);
+        u(hero);
+        v(hero);
+        w(hero);
+        c(hero);
     }
 }
