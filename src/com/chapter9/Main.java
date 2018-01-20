@@ -68,6 +68,8 @@ public class Main {
         Cycles.cycles(new UnicycleFactory());
         Cycles.cycles(new BicycleFactory());
         Cycles.cycles(new TricycleFactory());
-        System.out.println();
+
+        Play.fall(new CoinFactory());
+        Play.fall(new DiceFactory());
     }
 }
