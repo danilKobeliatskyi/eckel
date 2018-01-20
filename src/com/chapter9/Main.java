@@ -1,5 +1,7 @@
 package com.chapter9;
 
+import com.Chapter10.Outer;
+
 import java.util.Scanner;
 
 import static com.chapter9.Adventure.*;
@@ -71,5 +73,6 @@ public class Main {
 
         Play.fall(new CoinFactory());
         Play.fall(new DiceFactory());
+
     }
 }
