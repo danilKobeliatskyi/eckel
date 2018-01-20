@@ -3,7 +3,8 @@ package com.chapter9;
 public class Enum implements InterfaceEnum {
 
     void en(){
-        //MONCE++;
+        //
+        // MONCE++;
         //Cannot assign a value to final variable MONCE
     }
 }

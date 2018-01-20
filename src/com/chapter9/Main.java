@@ -63,6 +63,11 @@ public class Main {
         m(speedCar);
         j(speedCar);
 
-        Scanner scanner = new Scanner(new Transformer(20));
+        Scanner scaner = new Scanner(new Transformer(20));
+
+        Cycles.cycles(new UnicycleFactory());
+        Cycles.cycles(new BicycleFactory());
+        Cycles.cycles(new TricycleFactory());
+        System.out.println();
     }
 }
