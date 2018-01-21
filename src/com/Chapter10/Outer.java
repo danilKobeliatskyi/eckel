@@ -32,6 +32,4 @@ public class Outer {
 
         return new Inner();
     }
-
-
 }
