@@ -46,10 +46,14 @@ public class Sequence {
                 i++;
         }
 
+        public Sequence out(){
+
+            return Sequence.this;
+        }
     }
+
         public Selector selector(){
 
             return new SequenceSelector();
         }
-
 }
