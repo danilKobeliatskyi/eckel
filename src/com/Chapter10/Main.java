@@ -20,5 +20,7 @@ public class Main {
             System.out.print(selector.current() + " ");
             selector.next();
         }
+
+        Conclusion conclusion = new Conclusion();
     }
 }
