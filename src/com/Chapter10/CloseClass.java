@@ -11,7 +11,7 @@ public class CloseClass {
 
     class InnerCloseClass {
 
-        int change(){
+        private int change(){
 
             closeMetod();
             close++;
