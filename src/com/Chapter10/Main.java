@@ -24,5 +24,8 @@ public class Main {
         Conclusion conclusion = new Conclusion();
         Inheritor inheritor = new Inheritor();
         inheritor.create();
+
+        CloseClass closeClass = new CloseClass();
+        closeClass.result();
     }
 }
