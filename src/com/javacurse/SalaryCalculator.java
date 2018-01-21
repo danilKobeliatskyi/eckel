@@ -12,7 +12,7 @@ public class SalaryCalculator {
         int hoursPerWeek = 40;
         int weeksPerYear = 50;
         double rate = 42.50;
-        career = "Web developer"
+        career = "Web developer";
 
         double salary = hoursPerWeek * weeksPerYear * rate;
         System.out.println("My salary is a: " + career + " at the rate of $ " + rate + " per hour is $" + salary + " per year");
