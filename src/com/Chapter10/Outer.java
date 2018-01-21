@@ -2,17 +2,30 @@ package com.Chapter10;
 
 public class Outer {
 
-    class Inner{
+    private static String s;
+
+    static class Inner{
 
         public void inner(){
 
             System.out.println("Class Inner");
         }
 
-        Inner(){
+        public String toString(){
 
+            System.out.println(s);
+            return s;
+        }
+
+        Inner(){
+            
             inner();
         }
+    }
+
+    Outer(){
+
+        s = "Private string in class Outer";
     }
 
     public Inner content(){
