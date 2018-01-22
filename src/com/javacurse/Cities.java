@@ -13,17 +13,43 @@ public class Cities {
 
         String[] states = new String[5];
 
-        states[0] = "California";
-        states[1] = "Ohio";
-        states[2] = "New Jersy";
-        states[3] = "Texas";
-        states[4] = "Utah";
-        System.out.println(states[0]);
-
         String[] countries;
         countries = new String[3];
         countries[0] = "USA";
         countries[1] = "Canada";
         countries[2] = "UK";
+
+        states[0] = "California";
+        states[1] = "Ohio";
+        states[2] = "New Jersy";
+        states[3] = "Texas";
+        states[4] = "Utah";
+        int i = 0;
+        
+        do {
+
+        System.out.println("STATES: " + states[i]);
+        i ++;
+        } while (i < 5);
+
+        int n = 0;
+        boolean stateFound = false;
+
+        while (!stateFound){
+
+            String state = states[n];
+            System.out.println(state);
+
+            if (state == "Texas") {
+
+                System.out.println("STATE FOUND");
+                stateFound = true;
+            }
+
+            n++;
+        }
+
+        for(int x = 0; x < 5; x++)
+            System.out.println(states[x]);
     }
 }
