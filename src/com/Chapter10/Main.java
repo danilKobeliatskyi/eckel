@@ -42,5 +42,7 @@ public class Main {
         u(barney);
         Monster vlad = new VeryBadVampire();
         u(vlad);
+
+        ClassWhithLink classWhithLink = new ClassWhithLink();
     }
 }
