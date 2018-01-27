@@ -31,5 +31,8 @@ public class Main {
         ExternalClass ec = new ExternalClass();
         InterfaceForInnerClass i = ec.contents();
         i.description();
+
+        ExternalClass2 ex2= new ExternalClass2();
+        ex2.in();
     }
 }
