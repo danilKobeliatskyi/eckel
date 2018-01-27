@@ -71,8 +71,7 @@ public class Main {
         Cycles.cycles(new BicycleFactory());
         Cycles.cycles(new TricycleFactory());
 
-        Play.fall(new CoinFactory());
-        Play.fall(new DiceFactory());
-
+        Play.fall(Coin.factory);
+        Play.fall(Dice.factory);
     }
 }

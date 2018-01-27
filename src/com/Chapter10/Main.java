@@ -1,7 +1,6 @@
 package com.Chapter10;
 
 import static com.Chapter10.HorrorShow.u;
-import static com.Chapter10.HorrorShow.v;
 
 public class Main {
 
