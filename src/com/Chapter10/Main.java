@@ -1,5 +1,8 @@
 package com.Chapter10;
 
+import static com.Chapter10.HorrorShow.u;
+import static com.Chapter10.HorrorShow.v;
+
 public class Main {
 
     public static void main(String[] args){
@@ -33,5 +36,11 @@ public class Main {
         i.description();
 
         ExternalClass2 ex2= new ExternalClass2();
+
+        HorrorShow horrorShow = new HorrorShow();
+        Monster barney = new DragonZilla();
+        u(barney);
+        Monster vlad = new VeryBadVampire();
+        u(vlad);
     }
 }
