@@ -43,5 +43,11 @@ public class Main {
         u(vlad);
 
         ClassWhithLink classWhithLink = new ClassWhithLink();
+
+        WithNestedClass.NestedClass n = new WithNestedClass.NestedClass();
+        n.nestedClass();
+
+        Sheath.InnerClassFirstLevel.InnerClassSecondLevel secondLevel = new Sheath.InnerClassFirstLevel.InnerClassSecondLevel();
+        secondLevel.innerSecondLevel();
     }
 }
