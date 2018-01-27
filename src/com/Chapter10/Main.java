@@ -28,7 +28,8 @@ public class Main {
         CloseClass closeClass = new CloseClass();
         closeClass.result();
 
-        ExternalClass.InnerClass innerClass= new ExternalClass.InnerClass();
-        innerClass.innerClass();
+        ExternalClass ec = new ExternalClass();
+        InterfaceForInnerClass i = ec.contents();
+        i.description();
     }
 }
