@@ -33,6 +33,5 @@ public class Main {
         i.description();
 
         ExternalClass2 ex2= new ExternalClass2();
-        ex2.in();
     }
 }
