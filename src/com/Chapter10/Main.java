@@ -51,6 +51,6 @@ public class Main {
         secondLevel.innerSecondLevel();
 
         InterfaceWithInnerClass.InnerInInterface innerInInterface = new InterfaceWithInnerClass.InnerInInterface();
-        innerInInterface.print();
+        innerInInterface.result();
     }
 }
