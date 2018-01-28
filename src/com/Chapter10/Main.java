@@ -49,5 +49,8 @@ public class Main {
 
         Sheath.InnerClassFirstLevel.InnerClassSecondLevel secondLevel = new Sheath.InnerClassFirstLevel.InnerClassSecondLevel();
         secondLevel.innerSecondLevel();
+
+        InterfaceWithInnerClass.InnerInInterface innerInInterface = new InterfaceWithInnerClass.InnerInInterface();
+        innerInInterface.print();
     }
 }
