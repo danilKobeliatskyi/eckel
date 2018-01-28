@@ -17,7 +17,7 @@ public class Main {
         for(int i = 0; i < 10; i ++)
             sequence.add(Integer.toString(i));
 
-        Selector selector = sequence.selector();
+        Selector selector = sequence.reverseSelector();
         while (!selector.end()){
             System.out.print(selector.current() + " ");
             selector.next();
