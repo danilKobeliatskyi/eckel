@@ -15,8 +15,9 @@ public class Main {
         gerbilList.add(new Gerbil());
         for (int i = 0; i < gerbilList.size(); i++)
             System.out.println(gerbilList.get(i));
-        for (Gerbil gerbil : gerbilList)
-            Gerbil.hop();
+        Iterator<Gerbil> iterator = gerbilList.iterator();
+        while (iterator.hasNext())
+            iterator.next().hop();
 
         Generator gen = new Generator();
         String[] a = new String[10];
