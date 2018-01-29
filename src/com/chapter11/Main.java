@@ -104,5 +104,7 @@ public class Main {
         ListNum listNum = new ListNum();
 
         ClassWithIteratorForCollection classWithIteratorForCollection = new ClassWithIteratorForCollection();
+
+        ListIterator listIterator = new ListIterator();
     }
 }

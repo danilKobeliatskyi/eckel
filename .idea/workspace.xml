@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter11/ClassWithIteratorForCollection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter11/ListIterator.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/com/chapter11/Main.java" afterPath="$PROJECT_DIR$/src/com/chapter11/Main.java" />
     </list>
@@ -19,8 +19,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chapter11/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="105" column="109" lean-forward="false" selection-start-line="105" selection-start-column="109" selection-end-line="105" selection-end-column="109" />
+            <state relative-caret-position="547">
+              <caret line="107" column="55" lean-forward="false" selection-start-line="107" selection-start-column="55" selection-end-line="107" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#250#258#0" expanded="true" />
@@ -31,17 +31,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassWithIteratorForCollection.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClassWithIteratorForCollection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chapter11/ClassWithIteratorForCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="97" lean-forward="false" selection-start-line="9" selection-start-column="97" selection-end-line="9" selection-end-column="97" />
+            <state relative-caret-position="374">
+              <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               <folding>
                 <element signature="e#139#148#0" expanded="true" />
                 <element signature="e#227#238#0" expanded="true" />
                 <element signature="e#310#317#0" expanded="true" />
                 <element signature="e#393#401#0" expanded="true" />
                 <element signature="e#496#505#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListIterator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chapter11/ListIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#193#202#0" expanded="true" />
+                <element signature="e#281#290#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,7 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Chapter10/Lethal.java" />
         <option value="$PROJECT_DIR$/src/com/Chapter10/DangerousMonster.java" />
         <option value="$PROJECT_DIR$/src/com/Chapter10/Vampire.java" />
         <option value="$PROJECT_DIR$/src/com/Chapter10/Monster.java" />
@@ -123,8 +136,9 @@
         <option value="$PROJECT_DIR$/src/com/chapter8/RodentGenerator.java" />
         <option value="$PROJECT_DIR$/src/com/chapter8/Main.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/ClassWirhIteratorForCollection.java" />
-        <option value="$PROJECT_DIR$/src/com/chapter11/Main.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/ClassWithIteratorForCollection.java" />
+        <option value="$PROJECT_DIR$/src/com/chapter11/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/chapter11/ListIterator.java" />
       </list>
     </option>
   </component>
@@ -384,12 +398,12 @@
       <workItem from="1516895409075" duration="486000" />
       <workItem from="1516978383925" duration="1196000" />
       <workItem from="1517050844766" duration="15433000" />
-      <workItem from="1517133520138" duration="24138000" />
+      <workItem from="1517133520138" duration="25482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76958000" />
+    <option name="totallyTimeSpent" value="78302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -437,14 +451,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chapter9/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter9/Brass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -966,10 +972,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chapter11/ClassWithIteratorForCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="e#139#148#0" expanded="true" />
+            <element signature="e#227#238#0" expanded="true" />
+            <element signature="e#310#317#0" expanded="true" />
+            <element signature="e#393#401#0" expanded="true" />
+            <element signature="e#496#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter11/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="105" column="109" lean-forward="false" selection-start-line="105" selection-start-column="109" selection-end-line="105" selection-end-column="109" />
+        <state relative-caret-position="547">
+          <caret line="107" column="55" lean-forward="false" selection-start-line="107" selection-start-column="55" selection-end-line="107" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#250#258#0" expanded="true" />
@@ -979,16 +999,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chapter11/ClassWithIteratorForCollection.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chapter11/ListIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="97" lean-forward="false" selection-start-line="9" selection-start-column="97" selection-end-line="9" selection-end-column="97" />
+        <state relative-caret-position="374">
+          <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
           <folding>
-            <element signature="e#139#148#0" expanded="true" />
-            <element signature="e#227#238#0" expanded="true" />
-            <element signature="e#310#317#0" expanded="true" />
-            <element signature="e#393#401#0" expanded="true" />
-            <element signature="e#496#505#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#202#0" expanded="true" />
+            <element signature="e#281#290#0" expanded="true" />
           </folding>
         </state>
       </provider>
