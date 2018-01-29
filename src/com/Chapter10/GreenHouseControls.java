@@ -167,9 +167,9 @@ public class GreenHouseControls extends Controller {
     }
 
     public static void main(String[] args){
-        GreenHouseControls gs = new GreenHouseControls();
+        BetterGreenHouse gs = new BetterGreenHouse();
         gs.addEvent(gs.new Bell(900));
-        Event[] eventList = {
+        Event[] eventList = new Event[]{
                 gs.new ThermostatNight(0),
                 gs.new LightOn(200),
                 gs.new LightOff(400),
@@ -177,6 +177,8 @@ public class GreenHouseControls extends Controller {
                 gs.new WaterOff(800),
                 gs.new AerationOn(1000),
                 gs.new AerationOff(1200),
+                gs.new WettingOn(1250),
+                gs.new WaterOff( 1325),
                 gs.new ThermostatDay(1400)
         };
         gs.addEvent(gs.new Restart(2000, eventList));
