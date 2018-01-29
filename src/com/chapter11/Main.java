@@ -102,5 +102,7 @@ public class Main {
         System.out.println("23: " + sa[3]);
 
         ListNum listNum = new ListNum();
+
+        ClassWithIteratorForCollection classWithIteratorForCollection = new ClassWithIteratorForCollection();
     }
 }
