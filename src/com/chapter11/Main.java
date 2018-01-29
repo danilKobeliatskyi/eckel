@@ -31,60 +31,73 @@ public class Main {
 
         ListFeatures listFeatures = new ListFeatures();
         Random rand = new Random();
-        List<Integer> li = listOfRandInteger(7, 10);
-        System.out.println("1: " + li);
-        Integer h = new Integer(rand.nextInt(10));
-        li.add(h);
-        System.out.println("2: " + li);
-        System.out.println("3: " + li.contains(h));
-        li.remove(h);
-        System.out.println("3.5: " + li);
-        Integer p = li.get(2);
-        System.out.println("4: " + p + " " +  li.indexOf(p));
-        Integer cy = new Integer(rand.nextInt(10));
-        System.out.println("5: " + cy +" " + li.indexOf(cy));
-        System.out.println("6: " + li.remove(cy));
-        System.out.println("7: " + li.remove(p));
-        System.out.println("8: " + li);
-        li.add(3, new Integer(rand.nextInt(10)));
-        System.out.println("9: " + li);
-        List<Integer> sub = li.subList(1, 4);
+        List<String> ls = new ArrayList<String>();
+        System.out.println("0: " + ls);
+        Collections.addAll(ls, "oh", "what", "a", "beautiful", "Manila", "Monday", "morning");
+        System.out.println("1: " + ls);
+        String h = new String("hi");
+        ls.add(h);
+        System.out.println("2: " + ls);
+        System.out.println("3: " + ls.contains(h));
+        ls.remove(h);
+        System.out.println("3.5: " + ls);
+        String p = ls.size() > 2 ? ls.get(2) : null;
+        System.out.println("4: " + p + " " +  ls.indexOf(p));
+        String cy = new String("cy");
+        System.out.println("5: " + cy +" " + ls.indexOf(cy));
+        System.out.println("6: " + ls.remove(cy));
+        System.out.println("7: " + ls.remove(p));
+        System.out.println("8: " + ls);
+        if(ls.size() > 3)
+            ls.add(3, "wonderful");
+        System.out.println("9: " + ls);
+        if(ls.size() < 4) {
+            List<String> s =
+                    Arrays.asList("let's", "jump", "in", "here");
+            ls.addAll(0, s);
+        }
+        List<String> sub = ls.subList(1, 4);
         System.out.println("sublist: " + sub);
-        System.out.println("10: " + li.containsAll(sub));
+        System.out.println("10: " + ls.containsAll(sub));
         Collections.sort(sub);
         System.out.println("sorted sublist: " + sub);
-        System.out.println("11: " + li.containsAll(sub));
-        System.out.println("11.25: " + li);
+        System.out.println("11: " + ls.containsAll(sub));
+        System.out.println("11.25: " + ls);
         Collections.shuffle(sub, rand);
-        System.out.println("11.5: " + li);
+        System.out.println("11.5: " + ls);
         System.out.println("shuffled sublist: " + sub);
-        System.out.println("12: " + li.containsAll(sub));
-        List<Integer> copy = new ArrayList<Integer>(li);
-        System.out.println("12.5: " + li);
-        sub = Arrays.asList(li.get(1), li.get(4));
+        System.out.println("12: " + ls.containsAll(sub));
+        List<String> copy = new ArrayList<String>(ls);
+        System.out.println("12.5: " + ls);
+        if(ls.size() < 5) {
+            ls.add("two");
+            ls.add("more");
+        }
+        sub = Arrays.asList(ls.get(1), ls.get(4));
         System.out.println("sub: " + sub);
         copy.retainAll(sub);
         System.out.println("13: " + copy);
-        copy = new ArrayList<Integer>(li);
+        copy = new ArrayList<String>(ls);
         copy.remove(2);
         System.out.println("14: " + copy);
         copy.removeAll(sub);
         System.out.println("15: " + copy);
         if(copy.size() > 1)
-            copy.set(1, 8);
+            copy.set(1, "excellent");
         System.out.println("16: " + copy);
         if(copy.size() > 2)
             copy.addAll(2, sub);
         System.out.println("17: " + copy);
-        System.out.println("18: " + li.isEmpty());
-        li.clear();
-        System.out.println("19: " + li);
-        System.out.println("20: " + li.isEmpty());
-        li.addAll(listOfRandInteger(4, 10));
-        System.out.println("21: " + li);
-        Object[] o = li.toArray();
+        System.out.println("18: " + ls.isEmpty());
+        ls.clear();
+        System.out.println("19: " + ls);
+        System.out.println("20: " + ls.isEmpty());
+        ls.addAll(0, sub);
+        ls.addAll(2, sub);
+        System.out.println("21: " + ls);
+        Object[] o = ls.toArray();
         System.out.println("22: " + o[3]);
-        Integer[] ia = li.toArray(new Integer[0]);
-        System.out.println("23: " + ia[3]);
+        String[] sa = ls.toArray(new String[0]);
+        System.out.println("23: " + sa[3]);
     }
 }
