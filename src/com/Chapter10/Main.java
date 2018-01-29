@@ -4,7 +4,7 @@ import static com.Chapter10.HorrorShow.u;
 
 public class Main {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         Outer outer = new Outer();
         Outer.Inner inner = outer.content();
@@ -14,11 +14,11 @@ public class Main {
 
         Sequence sequence = new Sequence(10);
         Sequence sequence1 = new Sequence();
-        for(int i = 0; i < 10; i ++)
+        for (int i = 0; i < 10; i++)
             sequence.add(Integer.toString(i));
 
         Selector selector = sequence.reverseSelector();
-        while (!selector.end()){
+        while (!selector.end()) {
             System.out.print(selector.current() + " ");
             selector.next();
         }
@@ -34,7 +34,7 @@ public class Main {
         InterfaceForInnerClass i = ec.contents();
         i.description();
 
-        ExternalClass2 ex2= new ExternalClass2();
+        ExternalClass2 ex2 = new ExternalClass2();
 
         HorrorShow horrorShow = new HorrorShow();
         Monster barney = new DragonZilla();
@@ -52,5 +52,11 @@ public class Main {
 
         InterfaceWithInnerClass.InnerInInterface innerInInterface = new InterfaceWithInnerClass.InnerInInterface();
         innerInInterface.result();
+
+        A a = new A();
+        a.u().name();
+        a.u().print();
+        a.u().where();
+
     }
 }
