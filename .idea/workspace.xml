@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter11/Generator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter11/ListFeatures.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/com/chapter11/Main.java" afterPath="$PROJECT_DIR$/src/com/chapter11/Main.java" />
     </list>
@@ -19,10 +19,12 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/chapter11/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="46" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+            <state relative-caret-position="743">
+              <caret line="87" column="26" lean-forward="false" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
               <folding>
-                <element signature="e#189#197#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#250#258#0" expanded="true" />
+                <element signature="e#2570#2579#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -34,6 +36,19 @@
             <state relative-caret-position="425">
               <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListFeatures.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chapter11/ListFeatures.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#276#285#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Chapter10/Inheritor.java" />
         <option value="$PROJECT_DIR$/src/com/Chapter10/CloseClass.java" />
         <option value="$PROJECT_DIR$/src/com/javacurse/Wether.java" />
         <option value="$PROJECT_DIR$/src/com/javacurse/Weather.java" />
@@ -115,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/com/chapter10/Sequence.java" />
         <option value="$PROJECT_DIR$/src/com/chapter10/Main.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/Generator.java" />
+        <option value="$PROJECT_DIR$/src/com/chapter11/ListFeatures.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/Main.java" />
       </list>
     </option>
@@ -394,12 +409,12 @@
       <workItem from="1516895409075" duration="486000" />
       <workItem from="1516978383925" duration="1196000" />
       <workItem from="1517050844766" duration="15433000" />
-      <workItem from="1517133520138" duration="19563000" />
+      <workItem from="1517133520138" duration="20562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72383000" />
+    <option name="totallyTimeSpent" value="73382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -447,14 +462,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chapter10/Inheritor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter10/Out.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -945,12 +952,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chapter11/ListFeatures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#276#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter11/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="46" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        <state relative-caret-position="743">
+          <caret line="87" column="26" lean-forward="false" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
           <folding>
-            <element signature="e#189#197#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#250#258#0" expanded="true" />
+            <element signature="e#2570#2579#0" expanded="true" />
           </folding>
         </state>
       </provider>
