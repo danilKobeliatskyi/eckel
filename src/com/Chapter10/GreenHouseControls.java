@@ -178,7 +178,7 @@ public class GreenHouseControls extends Controller {
                 gs.new AerationOn(1000),
                 gs.new AerationOff(1200),
                 gs.new WettingOn(1250),
-                gs.new WaterOff( 1325),
+                gs.new WettingOff( 1325),
                 gs.new ThermostatDay(1400)
         };
         gs.addEvent(gs.new Restart(2000, eventList));

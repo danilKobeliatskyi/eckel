@@ -58,5 +58,7 @@ public class Main {
         a.u().print();
         a.u().where();
 
+        BaseWithInnerClass wi = new BaseWithInnerClass();
+        InheritInnerClass ii = new InheritInnerClass(wi);
     }
 }
