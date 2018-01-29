@@ -2,41 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter11/Gerbil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter11/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter11/SimpleCollection.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/A.java" afterPath="$PROJECT_DIR$/src/com/chapter10/A.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/B.java" afterPath="$PROJECT_DIR$/src/com/chapter10/B.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/BaseWithInnerClass.java" afterPath="$PROJECT_DIR$/src/com/chapter10/BaseWithInnerClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/BetterGreenHouse.java" afterPath="$PROJECT_DIR$/src/com/chapter10/BetterGreenHouse.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/ClassWhithLink.java" afterPath="$PROJECT_DIR$/src/com/chapter10/ClassWhithLink.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/CloseClass.java" afterPath="$PROJECT_DIR$/src/com/chapter10/CloseClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/Conclusion.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Conclusion.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/Controller.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Controller.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/DragonZilla.java" afterPath="$PROJECT_DIR$/src/com/chapter10/DragonZilla.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/Event.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Event.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/ExternalClass.java" afterPath="$PROJECT_DIR$/src/com/chapter10/ExternalClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/ExternalClass2.java" afterPath="$PROJECT_DIR$/src/com/chapter10/ExternalClass2.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/GreenHouseControls.java" afterPath="$PROJECT_DIR$/src/com/chapter10/GreenHouseControls.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/HorrorShow.java" afterPath="$PROJECT_DIR$/src/com/chapter10/HorrorShow.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/InheritInnerClass.java" afterPath="$PROJECT_DIR$/src/com/chapter10/InheritInnerClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/Inheritor.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Inheritor.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/InterfaceForInnerClass.java" afterPath="$PROJECT_DIR$/src/com/chapter10/InterfaceForInnerClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/InterfaceWithInnerClass.java" afterPath="$PROJECT_DIR$/src/com/chapter10/InterfaceWithInnerClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/Lethal.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Lethal.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/Main.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/Monster.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Monster.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/Out.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Out.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/Outer.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Outer.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/Selector.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Selector.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/SelectorString.java" afterPath="$PROJECT_DIR$/src/com/chapter10/SelectorString.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/Sequence.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Sequence.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/Sheath.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Sheath.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/U.java" afterPath="$PROJECT_DIR$/src/com/chapter10/U.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/VeryBadVampire.java" afterPath="$PROJECT_DIR$/src/com/chapter10/VeryBadVampire.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/WithNestedClass.java" afterPath="$PROJECT_DIR$/src/com/chapter10/WithNestedClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/Chapter10/WithoutDefaultConstructor.java" afterPath="$PROJECT_DIR$/src/com/chapter10/WithoutDefaultConstructor.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/chapter9/Main.java" afterPath="$PROJECT_DIR$/src/com/chapter9/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/chapter11/Main.java" afterPath="$PROJECT_DIR$/src/com/chapter11/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Gerbil.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Gerbil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chapter11/Gerbil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -65,11 +33,24 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chapter11/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="255">
+              <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#220#228#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleCollection.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chapter11/SimpleCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#185#194#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Chapter10/Out.java" />
         <option value="$PROJECT_DIR$/src/com/debug/IzolInterface.java" />
         <option value="$PROJECT_DIR$/src/com/Chapter10/Outer.java" />
         <option value="$PROJECT_DIR$/src/com/debugoff/IzolClass.java" />
@@ -151,8 +131,9 @@
         <option value="$PROJECT_DIR$/src/com/Chapter10/GreenHouseControls.java" />
         <option value="$PROJECT_DIR$/src/com/Chapter10/InheritInnerClass.java" />
         <option value="$PROJECT_DIR$/src/com/chapter10/InheritInnerClass.java" />
-        <option value="$PROJECT_DIR$/src/com/chapter11/Main.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/Gerbil.java" />
+        <option value="$PROJECT_DIR$/src/com/chapter11/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/chapter11/SimpleCollection.java" />
       </list>
     </option>
   </component>
@@ -242,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.SimpleCollection">
     <configuration name="Cities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -338,14 +319,14 @@
       <module name="eckel" />
       <envs />
     </configuration>
-    <configuration name="NumberCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.javacurse.*" />
+          <option name="PATTERN" value="com.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javacurse.NumberCalc" />
+      <option name="MAIN_CLASS_NAME" value="com.chapter11.SimpleCollection" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -393,18 +374,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main (3)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.NumberCalc" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Cities" />
-      <item index="3" class="java.lang.String" itemvalue="Application.GreenHouseControls" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Cities" />
+      <item index="2" class="java.lang.String" itemvalue="Application.GreenHouseControls" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SimpleCollection" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main (3)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.GreenHouseControls" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Cities" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NumberCalc" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SimpleCollection" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.GreenHouseControls" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Cities" />
       </list>
     </recent_temporary>
   </component>
@@ -431,12 +412,12 @@
       <workItem from="1516895409075" duration="486000" />
       <workItem from="1516978383925" duration="1196000" />
       <workItem from="1517050844766" duration="15433000" />
-      <workItem from="1517133520138" duration="15426000" />
+      <workItem from="1517133520138" duration="16650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68246000" />
+    <option name="totallyTimeSpent" value="69470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -484,7 +465,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/javacurse/NumberCalc.java" />
     <entry file="file://$PROJECT_DIR$/src/com/javacurse/Cities.java" />
     <entry file="file://$PROJECT_DIR$/src/com/chapter10/Inheritor.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -952,17 +932,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chapter11/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#220#228#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter11/Gerbil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -971,6 +940,28 @@
             <element signature="imports" expanded="true" />
             <element signature="e#148#149#0" expanded="true" />
             <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chapter11/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#220#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chapter11/SimpleCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#185#194#0" expanded="true" />
           </folding>
         </state>
       </provider>
