@@ -1,5 +1,7 @@
 package com.chapter10;
 
+import java.util.Iterator;
+
 import static com.chapter10.HorrorShow.u;
 
 public class Main {
@@ -15,12 +17,10 @@ public class Main {
         Sequence sequence = new Sequence(10);
         for (int i = 0; i < 10; i++)
             sequence.add(Integer.toString(i));
-
-        Selector selector = sequence.reverseSelector();
-        while (!selector.end()) {
-            System.out.println(selector.current() + " ");
-            selector.next();
-        }
+        Iterator iter = sequence.iterator();
+        while (iter.hasNext())
+            System.out.print(iter.next() + " ");
+        System.out.println("\n");
 
         Conclusion conclusion = new Conclusion();
         Inheritor inheritor = new Inheritor();

@@ -2,9 +2,10 @@ package com.chapter10;
 
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Iterator;
 
 public class Sequence {
-    private Collection<Object> collection;
+    private Collection<Object> collection = new ArrayList<Object>();
     private int next = 0;
     private int i = 0;
 
@@ -19,6 +20,10 @@ public class Sequence {
 
     public Sequence(int size) {
         collection = new ArrayList<Object>();
+    }
+
+    public Iterator iterator(){
+        return collection.iterator();
     }
 
     public void add(Object x) {
