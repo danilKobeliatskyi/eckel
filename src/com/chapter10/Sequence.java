@@ -1,7 +1,10 @@
 package com.chapter10;
 
+import java.util.ArrayList;
+import java.util.Collection;
+
 public class Sequence {
-    private Object[] items;
+    private Collection<Object> collection;
     private int next = 0;
     private int i = 0;
 
@@ -15,29 +18,28 @@ public class Sequence {
     }
 
     public Sequence(int size) {
-        items = new Object[size];
+        collection = new ArrayList<Object>();
     }
 
     public void add(Object x) {
-        if (next < items.length)
-            items[next++] = x;
+            collection.add(x);
     }
 
     public Selector reverseSelector() {
         return new Selector() {
             @Override
             public boolean end() {
-                return i == items.length;
+                return i == collection.size();
             }
 
             @Override
             public Object current() {
-                return items[i];
+                return collection;
             }
 
             @Override
             public void next() {
-                if (i < items.length)
+                if (i < collection.size())
                     i++;
             }
 

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter11/SimpleCollection.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/chapter11/Main.java" afterPath="$PROJECT_DIR$/src/com/chapter11/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/chapter10/Main.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/chapter10/Sequence.java" afterPath="$PROJECT_DIR$/src/com/chapter10/Sequence.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +16,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chapter10/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Gerbil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chapter11/Gerbil.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,14 +53,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleCollection.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimpleCollection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chapter11/SimpleCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#185#194#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chapter10/Sequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#772#773#0" expanded="true" />
+                <element signature="e#833#834#0" expanded="true" />
+                <element signature="e#894#895#0" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,8 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/debug/IzolInterface.java" />
-        <option value="$PROJECT_DIR$/src/com/Chapter10/Outer.java" />
         <option value="$PROJECT_DIR$/src/com/debugoff/IzolClass.java" />
         <option value="$PROJECT_DIR$/src/com/Chapter10/Inheritor.java" />
         <option value="$PROJECT_DIR$/src/com/Chapter10/CloseClass.java" />
@@ -134,6 +162,8 @@
         <option value="$PROJECT_DIR$/src/com/chapter11/Gerbil.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/Main.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/SimpleCollection.java" />
+        <option value="$PROJECT_DIR$/src/com/chapter10/Sequence.java" />
+        <option value="$PROJECT_DIR$/src/com/chapter10/Main.java" />
       </list>
     </option>
   </component>
@@ -191,6 +221,13 @@
               <item name="eckel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eckel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="chapter11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -223,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleCollection">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Cities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -381,9 +418,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SimpleCollection" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main (3)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SimpleCollection" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
         <item index="3" class="java.lang.String" itemvalue="Application.GreenHouseControls" />
         <item index="4" class="java.lang.String" itemvalue="Application.Cities" />
       </list>
@@ -412,12 +449,12 @@
       <workItem from="1516895409075" duration="486000" />
       <workItem from="1516978383925" duration="1196000" />
       <workItem from="1517050844766" duration="15433000" />
-      <workItem from="1517133520138" duration="16650000" />
+      <workItem from="1517133520138" duration="18598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69470000" />
+    <option name="totallyTimeSpent" value="71418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -727,23 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chapter10/Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#447#448#0" expanded="false" />
-            <element signature="e#487#488#0" expanded="false" />
-            <element signature="e#720#721#0" expanded="false" />
-            <element signature="e#776#777#0" expanded="false" />
-            <element signature="e#837#838#0" expanded="false" />
-            <element signature="e#884#885#0" expanded="false" />
-            <element signature="e#1054#1055#0" expanded="false" />
-            <element signature="e#1106#1107#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter10/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -916,14 +936,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chapter10/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="61" column="57" lean-forward="false" selection-start-line="61" selection-start-column="57" selection-end-line="61" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter10/InheritInnerClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -957,12 +969,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter11/SimpleCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="187">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#185#194#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chapter10/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chapter10/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>

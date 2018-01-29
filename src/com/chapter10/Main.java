@@ -13,13 +13,12 @@ public class Main {
 
 
         Sequence sequence = new Sequence(10);
-        Sequence sequence1 = new Sequence();
         for (int i = 0; i < 10; i++)
             sequence.add(Integer.toString(i));
 
         Selector selector = sequence.reverseSelector();
         while (!selector.end()) {
-            System.out.print(selector.current() + " ");
+            System.out.println(selector.current() + " ");
             selector.next();
         }
 
