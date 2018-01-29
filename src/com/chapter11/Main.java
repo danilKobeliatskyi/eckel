@@ -106,5 +106,7 @@ public class Main {
         ClassWithIteratorForCollection classWithIteratorForCollection = new ClassWithIteratorForCollection();
 
         ListIterator listIterator = new ListIterator();
+
+        ConteinerLincedList conteinerLincedList = new ConteinerLincedList();
     }
 }
