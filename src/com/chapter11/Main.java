@@ -99,5 +99,7 @@ public class Main {
         System.out.println("22: " + o[3]);
         String[] sa = ls.toArray(new String[0]);
         System.out.println("23: " + sa[3]);
+
+        ListNum listNum = new ListNum();
     }
 }
