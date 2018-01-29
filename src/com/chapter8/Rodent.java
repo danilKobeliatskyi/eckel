@@ -7,15 +7,16 @@ public class Rodent{
     private final long id = counter++;
 
     Rodent(Characteristic characteristic){
-
         System.out.println("Rodent" + id);
         this.characteristic = characteristic ;
         this.characteristic.addRef();
     }
 
+    protected void eat() {
+        System.out.println("Rodent eat");
+    }
 
     protected void dispose(){
-
     System.out.println("coat different");
     characteristic.dispose();
     }

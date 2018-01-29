@@ -1,5 +1,9 @@
 package com.chapter8;
 
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -32,14 +36,15 @@ public class Main {
         music.tuneAll(orchestra);
 
         Characteristic characteristic = new Characteristic();
-        Rodent[] r = {
-                new Rodent(characteristic),
-                new Hamster(characteristic),
-                new Rat(characteristic),
-                new Mouse(characteristic),
-                new Badger(characteristic)
-        };
-        for (Rodent rodent : r) {
+        RodentGenerator rodentGenerator = new RodentGenerator();
+        List<Rodent> rodentList = new ArrayList<Rodent>();
+        for(int i = 0; i < 10; i++)
+            rodentList.add(rodentGenerator.next());
+        Iterator<Rodent> iterator = rodentList.iterator();
+        while(iterator.hasNext()) {
+            Rodent rodent = iterator.next();
+            System.out.println(rodent + ": ");
+            rodent.eat();
             rodent.dispose();
         }
 

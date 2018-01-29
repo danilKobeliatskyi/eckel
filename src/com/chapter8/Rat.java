@@ -7,18 +7,18 @@ public class Rat extends Rodent{
     private final long id = counter++;
 
     Rat(Characteristic characteristic){
-
         super(characteristic);
         System.out.println("Rat" + id);
         this.characteristic = characteristic;
         this.characteristic.addRef();
     }
 
+    protected void eat() {
+        System.out.println("Rat eat");
+    }
 
     protected void dispose(){
-
     System.out.println("coat gray");
     characteristic.dispose();
-//  super.dispose();
     }
 }
