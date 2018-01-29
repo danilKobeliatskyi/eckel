@@ -1,7 +1,5 @@
 package com.chapter9;
 
-import com.Chapter10.Outer;
-
 import java.util.Scanner;
 
 import static com.chapter9.Adventure.*;
