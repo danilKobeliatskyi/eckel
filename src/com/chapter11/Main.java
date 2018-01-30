@@ -16,16 +16,22 @@ public class Main {
         gerbils.put("Goofy", new Gerbil(8));
         gerbils.put("Wowee", new Gerbil(9));
         System.out.println(gerbils);
-        Set<String> sortedKeys = new TreeSet<String>(gerbils.keySet());
-        System.out.println(sortedKeys);
-        Map<String, Gerbil> sortedGerbils = new LinkedHashMap<String, Gerbil>();
-        for(String s : sortedKeys) {
+        Set<String> hashedKeys = new HashSet<String>(gerbils.keySet());
+        System.out.println("HashSet: " + hashedKeys);
+        Map<String, Gerbil> hashedGerbils = new LinkedHashMap<String, Gerbil>();
+        for(String s : hashedKeys) {
             System.out.print("Adding " + s + ", ");
-            sortedGerbils.put(s, gerbils.get(s));
+            hashedGerbils.put(s, gerbils.get(s));
         }
-        System.out.println(sortedGerbils);
-        Map<String, Gerbil> sortedGerbils2 = new TreeMap<String, Gerbil>(gerbils);
-        System.out.println(sortedGerbils2);
+        System.out.println("From HashSet: " + hashedGerbils);
+        Set<String> linkedHashedKeys = new LinkedHashSet<String>(gerbils.keySet());
+        System.out.println("LinkedHashSet: " + linkedHashedKeys);
+        Map<String, Gerbil> linkedHashedGerbils = new LinkedHashMap<String, Gerbil>();
+        for(String s : linkedHashedKeys) {
+            System.out.print("Adding " + s + ", ");
+            linkedHashedGerbils.put(s, gerbils.get(s));
+        }
+        System.out.println("From LinkedHashSet: " + linkedHashedGerbils);
 
         Generator gen = new Generator();
         String[] a = new String[10];
