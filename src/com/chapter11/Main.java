@@ -4,7 +4,6 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args){
-        Gerbil g = new Gerbil(0);
         Map<String, Gerbil> gerbils = new HashMap<String, Gerbil>();
         gerbils.put("Fuzzy", new Gerbil(0));
         gerbils.put("Spot", new Gerbil(1));
@@ -12,12 +11,21 @@ public class Main {
         gerbils.put("Dopey", new Gerbil(3));
         gerbils.put("Sleepy", new Gerbil(4));
         gerbils.put("Happy", new Gerbil(5));
-        Iterator<String> iterator = gerbils.keySet().iterator();
-        while (iterator.hasNext()) {
-            String s = iterator.next();
-            System.out.print(s + ": ");
-            gerbils.get(s).hop();
+        gerbils.put("Funny", new Gerbil(6));
+        gerbils.put("Silly", new Gerbil(7));
+        gerbils.put("Goofy", new Gerbil(8));
+        gerbils.put("Wowee", new Gerbil(9));
+        System.out.println(gerbils);
+        Set<String> sortedKeys = new TreeSet<String>(gerbils.keySet());
+        System.out.println(sortedKeys);
+        Map<String, Gerbil> sortedGerbils = new LinkedHashMap<String, Gerbil>();
+        for(String s : sortedKeys) {
+            System.out.print("Adding " + s + ", ");
+            sortedGerbils.put(s, gerbils.get(s));
         }
+        System.out.println(sortedGerbils);
+        Map<String, Gerbil> sortedGerbils2 = new TreeMap<String, Gerbil>(gerbils);
+        System.out.println(sortedGerbils2);
 
         Generator gen = new Generator();
         String[] a = new String[10];
