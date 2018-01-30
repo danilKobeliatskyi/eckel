@@ -7,5 +7,7 @@ public class Main {
         ExceptionGenerator generator = new ExceptionGenerator();
         System.out.println();
         TreatmentException1 treatmentException1 = new TreatmentException1();
+        System.out.println();
+        Resumption resumption = new Resumption();
     }
 }
