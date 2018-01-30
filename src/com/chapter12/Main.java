@@ -5,5 +5,7 @@ public class Main {
         EmptyLink emptyLink = new EmptyLink();
         System.out.println();
         ExceptionGenerator generator = new ExceptionGenerator();
+        System.out.println();
+        TreatmentException1 treatmentException1 = new TreatmentException1();
     }
 }
