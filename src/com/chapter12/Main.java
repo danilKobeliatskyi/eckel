@@ -15,5 +15,8 @@ public class Main {
         System.out.println();
 
         Information information = new Information();
+        System.out.println();
+
+        Specification specification = new Specification();
     }
 }
