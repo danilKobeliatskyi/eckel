@@ -10,7 +10,7 @@ public class TreatmentException1 {
         try {
             f();
         } catch (Exception1 e) {
-            System.err.println("Caught Exception4");
+            System.err.println("Caught TreatmentException1");
             e.printStackTrace();
             e.showS();
         }
