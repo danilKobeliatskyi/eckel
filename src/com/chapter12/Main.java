@@ -9,5 +9,7 @@ public class Main {
         TreatmentException1 treatmentException1 = new TreatmentException1();
         System.out.println();
         Resumption resumption = new Resumption();
+        System.out.println();
+        Information information = new Information();
     }
 }
