@@ -2,22 +2,22 @@ package com.chapter11;
 
 import java.util.*;
 
-import static com.chapter11.ListFeatures.listOfRandInteger;
-
 public class Main {
     public static void main(String[] args){
-        Gerbil g = new Gerbil();
-        List<Gerbil> gerbilList = new ArrayList<Gerbil>();
-        gerbilList.add(new Gerbil());
-        gerbilList.add(new Gerbil());
-        gerbilList.add(new Gerbil());
-        gerbilList.add(new Gerbil());
-        gerbilList.add(new Gerbil());
-        for (int i = 0; i < gerbilList.size(); i++)
-            System.out.println(gerbilList.get(i));
-        Iterator<Gerbil> iterator = gerbilList.iterator();
-        while (iterator.hasNext())
-            iterator.next().hop();
+        Gerbil g = new Gerbil(0);
+        Map<String, Gerbil> gerbils = new HashMap<String, Gerbil>();
+        gerbils.put("Fuzzy", new Gerbil(0));
+        gerbils.put("Spot", new Gerbil(1));
+        gerbils.put("Speedy", new Gerbil(2));
+        gerbils.put("Dopey", new Gerbil(3));
+        gerbils.put("Sleepy", new Gerbil(4));
+        gerbils.put("Happy", new Gerbil(5));
+        Iterator<String> iterator = gerbils.keySet().iterator();
+        while (iterator.hasNext()) {
+            String s = iterator.next();
+            System.out.print(s + ": ");
+            gerbils.get(s).hop();
+        }
 
         Generator gen = new Generator();
         String[] a = new String[10];

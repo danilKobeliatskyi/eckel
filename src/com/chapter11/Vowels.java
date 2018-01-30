@@ -1,7 +1,6 @@
 package com.chapter11;
 
 import java.util.*;
-import com.chapter11.TextFile;
 
 public class Vowels {
     static void vowelCounter(Set<String> set) {
