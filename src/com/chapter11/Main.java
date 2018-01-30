@@ -134,5 +134,7 @@ public class Main {
         failingConstructor.ecxeption();
 
         Statistics statistics = new Statistics();
+
+        Queues queues = new Queues();
     }
 }
