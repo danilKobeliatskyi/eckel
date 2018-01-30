@@ -125,18 +125,12 @@ public class Main {
 
         TestStack testStack = new TestStack();
 
-        FailingConstructor failingConstructor = null;
-        try {
-            failingConstructor = new FailingConstructor();
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        failingConstructor.ecxeption();
-
         Statistics statistics = new Statistics();
 
         Queues queues = new Queues();
 
         CollectionSequence c = new CollectionSequence();
+
+        NonCollectionSequence nonCollectionSequence = new NonCollectionSequence();
     }
 }

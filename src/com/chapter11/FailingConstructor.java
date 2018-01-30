@@ -28,12 +28,12 @@ public class FailingConstructor {
             System.out.println("Failed to create d0");
         }
     }
-    public void ecxeption(){
+    FailingConstructor failingConstructor = null;
+    public static void main(String[] args) {
         try {
             FailingConstructor failingConstructor = new FailingConstructor();
-        } catch(Exception e) {
-            System.err.println("Caught Exception in main()");
-            e.printStackTrace(System.err);
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 }
