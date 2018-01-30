@@ -16,15 +16,9 @@ public class Main {
         d.rize(b);
         d.rize(t);
 
-        RandomShapeGenerator gen = new RandomShapeGenerator();
-        Shape[] s = new Shape[9];
-        for (int i = 0; i < s.length; i++)
-            s[i] = gen.next();
-        for (Shape shp : s) {
-            shp.draw();
-            shp.ears();
-            shp.word();
-        }
+        RandomShapeGenerator rsg = new RandomShapeGenerator(20);
+        for(Shape s : rsg)
+            System.out.println(s);
 
         Music music = new Music();
         System.out.println(Wind.what());

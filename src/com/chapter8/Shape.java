@@ -1,96 +1,48 @@
 package com.chapter8;
 
+import java.util.Iterator;
 import java.util.Random;
 
 public class Shape {
-
-    public void draw(){}
-
-    public void ears(){}
-
-    public void word(){
-        System.out.println("This is shape");
+    public void draw() {}
+	public void erase() {}
+	public void amend() {
+        System.out.println("Shape.amend()");
     }
-
+	@Override public String toString() {
+        return "Shape";
+    }
 }
 
-class Circle extends Shape {
 
-    public void draw(){
-        System.out.println("Circle draw");
-    }
-
-    public void ears(){
-        System.out.println("Circle ears");
-    }
-
-    public void word(){
-        System.out.println("This is circle");
-    }
-
-}
-
-class Square extends Shape {
-
-    public void draw(){
-        System.out.println("Square draw");
-    }
-
-    public void ears(){
-        System.out.println("Square ears");
-    }
-
-    public void word(){
-        System.out.println("This is square");
-    }
-
-}
-class Triangle extends Shape {
-
-    public void draw(){
-        System.out.println("Triangle draw");
-    }
-
-    public void ears(){
-        System.out.println("Triangle ears");
-    }
-
-    public void word(){
-        System.out.println("This is triangle");
-    }
-
-}
-
-class Polygon extends Shape {
-
-    public void draw(){
-        System.out.println("Polygon draw");
-    }
-
-    public void ears(){
-        System.out.println("Poligon ears");
-    }
-
-    public void word(){
-        System.out.println("This is poligon");
-    }
-
-}
-
-class RandomShapeGenerator{
-
-    private Random rand =new Random(6);
-
-    public Shape next(){
-
-        switch (rand.nextInt(16)){
+class RandomShapeGenerator implements Iterable<Shape> {
+    private Random rand = new Random();
+    public Shape make() {
+        switch(rand.nextInt(3)) {
             default:
-            case 0: return new Circle();
-            case 1: return new Square();
-            case 3: return new Triangle();
-            case 4: return new Polygon();
+                case 0: return new Circle();
+                case 1: return new Square();
+                case 2: return new Triangle();
         }
     }
+    private Shape[] shapes;
+    RandomShapeGenerator(int n) {
+        shapes = new Shape[n];
+        for(int i = 0; i < n; i++)
+            shapes[i] = make();
+        }
+        public Iterator<Shape> iterator() {
+            return new Iterator<Shape>() {
+            private int index = 0;
+            public boolean hasNext() {
+                return index < shapes.length;
+            }
+            public Shape next() {
+                return shapes[index++];
+            }
+            public void remove() {
+                throw new UnsupportedOperationException();
+            }
+        };
+    }
 }
-
-//class Shapes
