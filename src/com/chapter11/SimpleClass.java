@@ -1,4 +1,5 @@
 package com.chapter11;
 
-public class SimpleClass {
+public class SimpleClass extends Object  {
+
 }

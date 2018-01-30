@@ -38,5 +38,8 @@ public class PriorityQueueDemo {
             d.offer(rand.nextDouble() * i);
         while(d.peek() != null)
             System.out.print(d.poll() + " ");
+
+        PriorityQueue<SimpleClass> simpleClasses = new PriorityQueue<SimpleClass>();
+        //simpleClasses.offer(new SimpleClass());  Cant add even 1 object...
     }
 }
