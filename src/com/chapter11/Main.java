@@ -108,5 +108,7 @@ public class Main {
         ListIterator listIterator = new ListIterator();
 
         ConteinerLincedList conteinerLincedList = new ConteinerLincedList();
+
+        TestStack testStack = new TestStack();
     }
 }
