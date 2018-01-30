@@ -18,5 +18,8 @@ public class Main {
         System.out.println();
 
         Specification specification = new Specification();
+        System.out.println();
+
+        CatchExceptionType catchExceptionType = new CatchExceptionType();
     }
 }
