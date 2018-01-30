@@ -124,5 +124,13 @@ public class Main {
         ConteinerLincedList conteinerLincedList = new ConteinerLincedList();
 
         TestStack testStack = new TestStack();
+
+        FailingConstructor failingConstructor = null;
+        try {
+            failingConstructor = new FailingConstructor();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        failingConstructor.ecxeption();
     }
 }
