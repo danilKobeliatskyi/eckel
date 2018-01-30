@@ -136,5 +136,7 @@ public class Main {
         Statistics statistics = new Statistics();
 
         Queues queues = new Queues();
+
+        CollectionSequence c = new CollectionSequence();
     }
 }

@@ -1,7 +1,4 @@
-//: net/mindview/util/TextFile.java
-// Static functions for reading and writing text files as
-// a single string, and treating a file as an ArrayList.
- package com.chapter11;;
+package com.chapter11;;
 import java.io.*;
 import java.util.*;
 
