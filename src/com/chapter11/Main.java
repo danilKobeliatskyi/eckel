@@ -132,5 +132,7 @@ public class Main {
             e.printStackTrace();
         }
         failingConstructor.ecxeption();
+
+        Statistics statistics = new Statistics();
     }
 }

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter11/Disposable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter11/FailingConstructor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter11/Statistics.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/com/chapter11/Main.java" afterPath="$PROJECT_DIR$/src/com/chapter11/Main.java" />
     </list>
@@ -20,8 +19,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/chapter11/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="133" column="8" lean-forward="false" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="8" />
+            <state relative-caret-position="581">
+              <caret line="135" column="49" lean-forward="false" selection-start-line="135" selection-start-column="49" selection-end-line="135" selection-end-column="49" />
               <folding>
                 <element signature="e#158#174#0" expanded="true" />
                 <element signature="e#710#718#0" expanded="true" />
@@ -88,6 +87,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Statistics.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chapter11/Statistics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="14" />
+              <folding>
+                <element signature="e#199#217#0" expanded="true" />
+                <element signature="e#611#639#0" expanded="true" />
+                <element signature="e#1049#1066#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -115,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chapter9/Play.java" />
         <option value="$PROJECT_DIR$/src/com/chapter9/Coin.java" />
         <option value="$PROJECT_DIR$/src/com/chapter9/Dice.java" />
         <option value="$PROJECT_DIR$/src/com/chapter9/Main.java" />
@@ -165,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/com/chapter11/UniqueWord.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/Disposable.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/FailingConstructor.java" />
+        <option value="$PROJECT_DIR$/src/com/chapter11/Statistics.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/Main.java" />
       </list>
     </option>
@@ -429,12 +442,12 @@
       <workItem from="1517050844766" duration="15433000" />
       <workItem from="1517133520138" duration="31059000" />
       <workItem from="1517282387406" duration="3661000" />
-      <workItem from="1517295627279" duration="1677000" />
+      <workItem from="1517295627279" duration="2087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89217000" />
+    <option name="totallyTimeSpent" value="89627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -482,13 +495,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chapter9/Coin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter9/Dice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -880,10 +886,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chapter11/Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="14" />
+          <folding>
+            <element signature="e#199#217#0" expanded="true" />
+            <element signature="e#611#639#0" expanded="true" />
+            <element signature="e#1049#1066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter11/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="133" column="8" lean-forward="false" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="8" />
+        <state relative-caret-position="581">
+          <caret line="135" column="49" lean-forward="false" selection-start-line="135" selection-start-column="49" selection-end-line="135" selection-end-column="49" />
           <folding>
             <element signature="e#158#174#0" expanded="true" />
             <element signature="e#710#718#0" expanded="true" />
