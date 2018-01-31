@@ -27,5 +27,9 @@ public class Main {
         System.out.println("\n");
 
         Sequence sequence = new Sequence();
+        System.out.println("\n");
+
+        OnOffSwitch onOffSwitch = new OnOffSwitch();
+        System.out.println("\n");
     }
 }
