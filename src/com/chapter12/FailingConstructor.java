@@ -3,40 +3,58 @@ package com.chapter12;
 import java.io.*;
 
 public class FailingConstructor {
-    private Integer[] ia = new Integer[2];
-    private static Disposable d0;
-    private static Disposable d1;
-    FailingConstructor() throws Exception {
+    private BufferedReader in;
+    public FailingConstructor(String name) throws Exception {
         try {
-            d0 = new Disposable();
+            in = new BufferedReader(new FileReader(name));
+        } catch (FileNotFoundException e) {
+            System.out.println("Could not find file " + name);
+            throw e;
+        } catch (Exception e) {
             try {
-                ia[2] = 2;
-                try {
-                    d1 = new Disposable();
-                } catch(Exception e) {
-                    System.out.println("Caught e in inner try loop");
-                    e.printStackTrace(System.err);
-                    System.out.println("Failed to create d1");
-                }
-            } catch(Exception e) {
-                System.out.println("Caught e in middle try loop");
-                e.printStackTrace(System.err);
-                System.out.println("Disposing d0");
-                d0.dispose();
+                in.close();
+            } catch (IOException e2) {
+                System.out.println("in.close() failed");
             }
-        } catch(Exception e) {
-            System.out.println("Caught e in outer try loop");
-            e.printStackTrace(System.err);
-            System.out.println("Failed to create d0");
+            throw e;
         }
-
     }
+
+    public String getLine() {
+        String s;
+        try {
+            s = in.readLine();
+        } catch(IOException e) {
+            throw new RuntimeException("readLine() failed");
+        }
+        return s;
+    }
+
+    public void dispose() {
+        try {
+            in.close();
+            System.out.println("dispose() successful");
+        } catch(IOException e2) {
+            throw new RuntimeException("in.close() failed");
+        }
+    }
+
     public static void main(String[] args) {
         try {
-            FailingConstructor failingConstructor = new FailingConstructor();
+            FailingConstructor failingConstructor = new FailingConstructor("AlwaysFinally.java");
+            try {
+                String s;
+                int i = 1;
+                while((s = failingConstructor.getLine()) != null) {
+                }
+            } catch(Exception e) {
+                System.out.println("Exception caught in main()");
+                e.printStackTrace(System.err);
+            } finally {
+                failingConstructor.dispose();
+            }
         } catch(Exception e) {
-            System.err.println("Caught Exception in main()");
-            e.printStackTrace(System.err);
+            System.out.println("FailingConstructor construction failed");
         }
     }
 }

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter12/Disposable.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/com/chapter12/FailingConstructor.java" afterPath="$PROJECT_DIR$/src/com/chapter12/FailingConstructor.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,8 +47,8 @@
       <file leaf-file-name="FailingConstructor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/chapter12/FailingConstructor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="598">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -405,12 +403,12 @@
       <workItem from="1517324951736" duration="1686000" />
       <workItem from="1517340782928" duration="1292000" />
       <workItem from="1517348972602" duration="5406000" />
-      <workItem from="1517392312388" duration="11483000" />
+      <workItem from="1517392312388" duration="11844000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120015000" />
+    <option name="totallyTimeSpent" value="120376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -935,8 +933,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter12/FailingConstructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="598">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
