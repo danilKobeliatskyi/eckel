@@ -8,9 +8,9 @@ public class TryInTry {
             } catch(ExceptionF ge) {
                 System.out.println("Caught ExceptionF in f inner try");
                 ge.printStackTrace();
-                throw new ExceptionH("from f(), inner try");
+                throw new RuntimeException("from f(), inner try");
             }
-        } catch(ExceptionH he) {
+        } catch(RuntimeException he) {
             System.out.println("Caught ExceptionH in f() outer try");
             he.printStackTrace(System.out);
         }
