@@ -31,5 +31,7 @@ public class Main {
 
         OnOffSwitch onOffSwitch = new OnOffSwitch();
         System.out.println("\n");
+
+        WithFinally withFinally = new WithFinally();
     }
 }
