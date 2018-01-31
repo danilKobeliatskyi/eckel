@@ -33,5 +33,16 @@ public class Main {
         System.out.println("\n");
 
         WithFinally withFinally = new WithFinally();
+
+        System.out.println("\n");
+        System.out.println("CADSystem");
+        CADSystem x = new CADSystem(47);
+        System.out.println("CADSystem");
+        try {
+            System.out.println("Returning from try block");
+            return;
+        } finally {
+            x.dispose();
+        }
     }
 }
