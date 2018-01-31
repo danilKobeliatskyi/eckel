@@ -7,7 +7,7 @@ public class LostMessage {
     void dispose() throws HoHumException {
         throw new HoHumException();
     }
-    
+
     public static void main(String[] args) {
         try {
             LostMessage lostMessage = new LostMessage();
