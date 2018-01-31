@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter12/Selector.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter12/Sequence.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/chapter12/Main.java" afterPath="$PROJECT_DIR$/src/com/chapter12/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/chapter12/CatchExceptionType.java" afterPath="$PROJECT_DIR$/src/com/chapter12/CatchExceptionType.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sequence.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chapter12/Sequence.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -82,6 +79,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CatchExceptionType.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chapter12/CatchExceptionType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -114,7 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chapter11/EgyptianMau.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/ForNameCreator.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/Hamster.java" />
         <option value="$PROJECT_DIR$/src/com/chapter11/Individual.java" />
@@ -165,6 +171,7 @@
         <option value="$PROJECT_DIR$/src/com/chapter12/Selector.java" />
         <option value="$PROJECT_DIR$/src/com/chapter12/SequenceSelector.java" />
         <option value="$PROJECT_DIR$/src/com/chapter12/Sequence.java" />
+        <option value="$PROJECT_DIR$/src/com/chapter12/CatchExceptionType.java" />
       </list>
     </option>
   </component>
@@ -419,12 +426,12 @@
       <workItem from="1517324951736" duration="1686000" />
       <workItem from="1517340782928" duration="1292000" />
       <workItem from="1517348972602" duration="5406000" />
-      <workItem from="1517392312388" duration="3487000" />
+      <workItem from="1517392312388" duration="4339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112019000" />
+    <option name="totallyTimeSpent" value="112871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -816,14 +823,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chapter12/CatchExceptionType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter12/ExceptionF.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -855,14 +854,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chapter12/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter12/SequenceSelector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -887,6 +878,22 @@
             <element signature="e#683#684#0" expanded="true" />
             <element signature="e#728#729#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chapter12/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chapter12/CatchExceptionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
