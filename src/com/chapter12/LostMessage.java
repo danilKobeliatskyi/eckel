@@ -7,21 +7,16 @@ public class LostMessage {
     void dispose() throws HoHumException {
         throw new HoHumException();
     }
-    void eliminate() throws MeaninglessException {
-        throw new MeaninglessException();
-    }
+    
     public static void main(String[] args) {
         try {
-            LostMessage lm = new LostMessage();
+            LostMessage lostMessage = new LostMessage();
             try {
-                try {
-                    lm.f();
-                    lm.dispose();
-                } finally {
-                    lm.eliminate();
-                }
+                lostMessage.f();
             } catch(Exception e) {
                 System.out.println(e);
+            } finally {
+                lostMessage.dispose();
             }
         } catch(Exception e) {
             System.out.println(e);
