@@ -24,5 +24,8 @@ public class Main {
         System.out.println("\n");
 
         TryInTry tryInTry = new TryInTry();
+        System.out.println("\n");
+
+        Sequence sequence = new Sequence();
     }
 }
