@@ -17,9 +17,7 @@ public class ExceptionGenerator {
         try {
             ints[2] = 3;
         } catch(ArrayIndexOutOfBoundsException e) {
-            System.err.println("Caught ArrayIndexOutOfBoundsException");
-            e.printStackTrace();
-            logException(e);
+            throw new RuntimeException();
         }
     }
 }
