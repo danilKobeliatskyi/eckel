@@ -1,4 +1,4 @@
 package com.chapter12;
 
-public class Strike extends BaseballException {
+public class Strike extends RuntimeException {
 }

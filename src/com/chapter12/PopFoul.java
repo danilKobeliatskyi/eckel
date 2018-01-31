@@ -1,4 +1,4 @@
 package com.chapter12;
 
-public class PopFoul extends Foul {
+public class PopFoul extends RuntimeException {
 }

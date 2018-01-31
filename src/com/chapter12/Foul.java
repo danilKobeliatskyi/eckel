@@ -1,4 +1,4 @@
 package com.chapter12;
 
-public class Foul extends BaseballException {
+public class Foul extends RuntimeException {
 }
