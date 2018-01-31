@@ -34,8 +34,6 @@ public class Main {
 
         WithFinally withFinally = new WithFinally();
 
-        System.out.println("\n");
-        System.out.println("CADSystem");
         CADSystem x = new CADSystem(47);
         System.out.println("CADSystem");
         try {
