@@ -5,5 +5,9 @@ public class Main {
         SprinklerSystem sprinkler = new SprinklerSystem();
         sprinkler.toString();
         System.out.println(sprinkler);
+
+        InfiniteRecursion recursion = new InfiniteRecursion();
+        recursion.InfiniteRecursionAdd();
+        recursion.toString();
     }
 }
