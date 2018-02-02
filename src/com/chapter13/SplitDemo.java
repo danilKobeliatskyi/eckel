@@ -1,6 +1,5 @@
 package com.chapter13;
 
-import java.util.regex.*;
 import java.util.*;
 
 public class SplitDemo {
