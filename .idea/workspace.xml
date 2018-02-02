@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter13/Groups.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chapter13/StartEnd.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Groups.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Groups.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chapter13/Groups.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -54,6 +54,16 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#752#760#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartEnd.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chapter13/StartEnd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="43" column="31" lean-forward="false" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chapter12/MeaninglessException.java" />
         <option value="$PROJECT_DIR$/src/com/chapter12/Main.java" />
         <option value="$PROJECT_DIR$/src/com/chapter12/LostMessage.java" />
         <option value="$PROJECT_DIR$/src/com/chapter12/ThrownFromGame.java" />
@@ -136,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/com/chapter13/TestRegularExpression.java" />
         <option value="$PROJECT_DIR$/src/com/chapter13/RegularExpression.java" />
         <option value="$PROJECT_DIR$/src/com/chapter13/Groups.java" />
+        <option value="$PROJECT_DIR$/src/com/chapter13/StartEnd.java" />
       </list>
     </option>
   </component>
@@ -231,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Groups">
+  <component name="RunManager" selected="Application.StartEnd">
     <configuration name="Groups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -270,14 +280,14 @@
       <module name="eckel" />
       <envs />
     </configuration>
-    <configuration name="Replacing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.chapter13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.chapter13.Replacing" />
+      <option name="MAIN_CLASS_NAME" value="com.chapter13.Sentence" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -289,14 +299,14 @@
       <module name="eckel" />
       <envs />
     </configuration>
-    <configuration name="Sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="StartEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.chapter13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.chapter13.Sentence" />
+      <option name="MAIN_CLASS_NAME" value="com.chapter13.StartEnd" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -343,19 +353,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Replacing" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Sentence" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestRegularExpression" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RegularExpression" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Groups" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Sentence" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestRegularExpression" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RegularExpression" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Groups" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StartEnd" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Groups" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RegularExpression" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestRegularExpression" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Sentence" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Replacing" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StartEnd" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Groups" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RegularExpression" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestRegularExpression" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Sentence" />
       </list>
     </recent_temporary>
   </component>
@@ -392,16 +402,15 @@
       <workItem from="1517348972602" duration="5406000" />
       <workItem from="1517392312388" duration="15974000" />
       <workItem from="1517477472544" duration="7614000" />
-      <workItem from="1517571465491" duration="3744000" />
+      <workItem from="1517571465491" duration="4466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135864000" />
+    <option name="totallyTimeSpent" value="136586000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -445,13 +454,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chapter12/CatchExceptionType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chapter12/CADSystem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -842,6 +844,14 @@
             <element signature="imports" expanded="true" />
             <element signature="e#752#760#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chapter13/StartEnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="43" column="31" lean-forward="false" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
