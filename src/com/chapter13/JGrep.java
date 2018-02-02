@@ -4,12 +4,12 @@ import java.util.regex.*;
 
 public class JGrep {
     public static void main(String[] args) throws Exception {
-        if(args.length < 3) {
+        if(args.length < 2) {
             System.out.println("Usage: java JGrep file regex flag");
             System.exit(0);
         }
         int flag = 0;
-        if(args[2].equals("Pattern.CASE_INSENSITIVE"))
+        if(args[1].equals("Pattern.CASE_INSENSITIVE"))
             flag = Pattern.CASE_INSENSITIVE;
         else if(args[2].equals("Pattern.CANON_EQ"))
             flag = Pattern.CANON_EQ;
