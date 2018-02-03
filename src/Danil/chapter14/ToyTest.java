@@ -9,13 +9,13 @@ public class ToyTest {
     public static void main(String[] args) {
         Class c = null;
         try {
-            c = Class.forName("typeInfo.toys.FancyToy");
+            c = Class.forName("Danil.chapter14.FancyToy");
         } catch (ClassNotFoundException e) {
             System.out.println("Can not found FancyToy");
             System.exit(1);
         }printInfo(c);
         for (Class face : c.getInterfaces())
-            System.out.println(false);
+            System.out.println(face);
         Class up = c.getSuperclass();
         Object obj = null;
         try {
