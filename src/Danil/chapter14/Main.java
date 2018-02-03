@@ -10,7 +10,14 @@ public class Main {
             shape.draw();
 
         Rhomboid rhomboid = new Rhomboid();
+        Cycle cycle = new Cycle();
         ((Shape)rhomboid).draw();
-        //((Shape)Cycle).draw();
+
+        Shape s = (Shape)cycle;
+        s.draw();
+        if(s instanceof Rhomboid)
+            ((Rhomboid)s).draw();
+        else if(!(s instanceof Rhomboid))
+            System.out.println("(Shape)" + s + " is not a Rhomboid");
     }
 }
