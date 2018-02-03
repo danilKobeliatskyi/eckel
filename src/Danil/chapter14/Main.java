@@ -6,8 +6,10 @@ import java.util.List;
 public class Main {
     public static void main(String[] args){
         List<Shape> shapeList = Arrays.asList(new Cycle(), new Triangle(), new Square(), new Rhomboid());
-        for (Shape shape : shapeList)
+        for (Shape shape : shapeList) {
             shape.draw();
+            shape.rotate(shape);
+        }
 
         Rhomboid rhomboid = new Rhomboid();
         Cycle cycle = new Cycle();

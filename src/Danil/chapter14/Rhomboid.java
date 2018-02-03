@@ -4,4 +4,9 @@ public class Rhomboid extends Shape {
     public String toString() {
         return "Rhomboid";
     }
+
+    @Override
+    public void rotate(Shape shape) {
+        super.rotate(shape);
+    }
 }
