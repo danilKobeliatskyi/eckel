@@ -1,8 +1,9 @@
 package Danil.chapter14;
 
 public class Square extends Shape {
+    private boolean flag = false;
     public String toString() {
-        return "Square";
+        return (flag?"Shape" : "H") + "highlighted" + "Square";
     }
 
     @Override

@@ -1,8 +1,10 @@
 package Danil.chapter14;
 
 public class Cycle extends Shape {
+    boolean flag = false;
+
     public String toString() {
-        return "Cycle";
+        return (flag ? "H" : "Unh") + "ighlighted " + "Circle";
     }
 
     @Override

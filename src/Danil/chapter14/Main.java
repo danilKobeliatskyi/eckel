@@ -21,5 +21,8 @@ public class Main {
             ((Rhomboid)s).draw();
         else if(!(s instanceof Rhomboid))
             System.out.println("(Shape)" + s + " is not a Rhomboid");
+
+        if (s instanceof Cycle)
+            ((Cycle)s).flag = true;
     }
 }

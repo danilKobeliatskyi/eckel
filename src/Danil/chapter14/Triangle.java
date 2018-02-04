@@ -1,8 +1,9 @@
 package Danil.chapter14;
 
 public class Triangle extends Shape {
+    private boolean flag = false;
     public String toString() {
-        return "Triangle";
+        return (flag ? "Shape" : "H") + "ighlighted " + "Triangle";
     }
 
     @Override
