@@ -2,7 +2,6 @@ package Danil.chapter19;
 
 import javax.swing.*;
 import java.awt.*;
-
 import static Danil.chapter19.SwingConsole.*;
 
 public class Button1 extends JFrame {
