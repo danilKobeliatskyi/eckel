@@ -10,13 +10,10 @@ public class DynamicProxyHandler implements InvocationHandler {
         this.proxied = proxied;
     }
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-        long timeIn = new Date().getTime();
-        System.out.println("**** proxy: " + proxy.getClass() + ", method: " + method + ", args: " + args + ", invoked at " + timeIn + " on " + (new Date()));
+        System.out.println("**** proxy: " + proxy.getClass() + ", method: " + method + ", args: " + args);
         if(args != null)
             for(Object arg : args)
                 System.out.println("  " + args);
-        long timeOut = new Date().getTime();
-        System.out.println("Method call-return time: " + (timeOut - timeIn) + " msecs");
         return method.invoke(proxied, args);
     }
 }
