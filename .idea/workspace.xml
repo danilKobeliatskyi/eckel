@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter14/A.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter14/B.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter14/C.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter14/ClassHierarchy.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/A.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/A.java" />
+      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/B.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/B.java" />
+      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/C.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/C.java" />
+      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/ClassHierarchy.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/ClassHierarchy.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,51 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Candy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/Candy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/Gum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cookie.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/Cookie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SweetShop.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/SweetShop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="56" lean-forward="false" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="68">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -71,8 +30,18 @@
       <file leaf-file-name="B.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="68">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="C.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/C.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -81,22 +50,12 @@
       <file leaf-file-name="ClassHierarchy.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/ClassHierarchy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="69" lean-forward="false" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+            <state relative-caret-position="305">
+              <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#1003#1004#0" expanded="true" />
+                <element signature="e#1037#1038#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="C.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/C.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -128,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chapter13/SprinklerSystem.java" />
         <option value="$PROJECT_DIR$/src/com/chapter13/InfiniteRecursion.java" />
         <option value="$PROJECT_DIR$/src/com/Turtle.java" />
         <option value="$PROJECT_DIR$/src/com/chapter13/Receipt.java" />
@@ -176,9 +134,10 @@
         <option value="$PROJECT_DIR$/src/Danil/chapter14/Gum.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter14/Cookie.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter14/SweetShop.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter14/A.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter14/B.java" />
-        <option value="$PROJECT_DIR$/src/Danil/chapter14/ClassHierarchy.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter14/C.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter14/ClassHierarchy.java" />
       </list>
     </option>
   </component>
@@ -443,12 +402,12 @@
       <workItem from="1517687413425" duration="1486000" />
       <workItem from="1517738870661" duration="11282000" />
       <workItem from="1518105062225" duration="2002000" />
-      <workItem from="1518439847718" duration="772000" />
+      <workItem from="1518439847718" duration="911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162239000" />
+    <option name="totallyTimeSpent" value="162378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -857,35 +816,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/B.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/C.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/ClassHierarchy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="69" lean-forward="false" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+        <state relative-caret-position="305">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
           </folding>
         </state>
       </provider>
