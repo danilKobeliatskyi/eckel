@@ -3,7 +3,7 @@ package Danil.chapter14;
 import java.lang.reflect.*;
 import java.util.regex.*;
 
-public class ShowMethods {
+class ShowMethods {
     private static String usage = "usage:\n" +
                     "ShowMethods qualified.class.name\n" +
                     "To show all methods in class or:\n" +
