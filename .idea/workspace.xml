@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Toy.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Toy.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/ToyTest.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/ToyTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Interface.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter14/RealObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter14/SimpleProxy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter14/SimpleProxyDemo.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +43,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ToyTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ToyTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/ToyTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Interface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/Interface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RealObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/RealObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleProxy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/SimpleProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <folding>
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleProxyDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/SimpleProxyDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -77,10 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chapter13/Saff.java" />
-        <option value="$PROJECT_DIR$/src/com/chapter13/Conversion.java" />
-        <option value="$PROJECT_DIR$/src/com/chapter13/PrimitiveTypes.java" />
-        <option value="$PROJECT_DIR$/src/com/chapter13/Main.java" />
         <option value="$PROJECT_DIR$/src/com/chapter13/Splitting.java" />
         <option value="$PROJECT_DIR$/src/com/chapter13/Replacing.java" />
         <option value="$PROJECT_DIR$/src/com/chapter13/Sentence.java" />
@@ -128,6 +175,10 @@
         <option value="$PROJECT_DIR$/src/Danil/chapter14/ShowMethods.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter14/Toy.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter14/ToyTest.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter14/Interface.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter14/RealObject.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter14/SimpleProxy.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter14/SimpleProxyDemo.java" />
       </list>
     </option>
   </component>
@@ -226,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ToyTest">
+  <component name="RunManager" selected="Application.SimpleProxyDemo">
     <configuration name="ClassHierarchy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -265,14 +316,14 @@
       <module name="eckel" />
       <envs />
     </configuration>
-    <configuration name="SweetShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Danil.chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Danil.chapter14.SweetShop" />
+      <option name="MAIN_CLASS_NAME" value="Danil.chapter14.SimpleProxyDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -338,19 +389,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SweetShop" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ClassHierarchy" />
-      <item index="2" class="java.lang.String" itemvalue="Application.WhatIsAnMassifChar" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ShowMethods" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ToyTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ClassHierarchy" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WhatIsAnMassifChar" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ShowMethods" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ToyTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SimpleProxyDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ToyTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ShowMethods" />
-        <item index="2" class="java.lang.String" itemvalue="Application.WhatIsAnMassifChar" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ClassHierarchy" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SweetShop" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SimpleProxyDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ToyTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ShowMethods" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WhatIsAnMassifChar" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ClassHierarchy" />
       </list>
     </recent_temporary>
   </component>
@@ -393,16 +444,15 @@
       <workItem from="1517738870661" duration="11282000" />
       <workItem from="1518105062225" duration="2002000" />
       <workItem from="1518439847718" duration="3984000" />
-      <workItem from="1518464461843" duration="563000" />
+      <workItem from="1518464461843" duration="1420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166014000" />
+    <option name="totallyTimeSpent" value="166871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -446,34 +496,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter13/PrimitiveTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter13/SprinklerSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter13/Receipt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter13/Splitting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Danil/chapter13/Replacing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -816,6 +838,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/RealObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/SimpleProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter14/SimpleProxyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding />
         </state>
       </provider>
