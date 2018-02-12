@@ -1,32 +1,21 @@
 package Danil.chapter14;
 
+import java.lang.reflect.*;
+
 public class ToyTest {
-    static void printInfo(Class cc){
-        System.out.println("Name of class: " + cc.getName() + " is the interface? [" + cc.isInterface() + "]");
-        System.out.println("Simple name: " + cc.getSimpleName());
-        System.out.println("Canonical name: " + cc.getCanonicalName());
-    }
     public static void main(String[] args) {
-        Class c = null;
+        // get appropriate constructor and create new instance:
         try {
-            c = Class.forName("Danil.chapter14.FancyToy");
-        } catch (ClassNotFoundException e) {
-            System.out.println("Can not found FancyToy");
-            System.exit(1);
-        }printInfo(c);
-        for (Class face : c.getInterfaces())
-            System.out.println(face);
-        Class up = c.getSuperclass();
-        Object obj = null;
-        try {
-            obj = up.newInstance();
-        }catch (InstantiationException e){
-            System.out.println("Can not create exemplar");
-            System.exit(1);
-        }catch (IllegalAccessException e){
-            System.out.println("Access denied");
-            System.exit(1);
+            Toy.class.getDeclaredConstructor(int.class).newInstance(1);
+            // catch four exceptions:
+        } catch (NoSuchMethodException e) {
+            System.out.println("No such method: " + e);
+        } catch (InstantiationException e) {
+            System.out.println("Unable make Toy: " + e);
+        } catch (IllegalAccessException e) {
+            System.out.println("Unable access: " + e);
+        } catch (InvocationTargetException e) {
+            System.out.println("Target invocation problem: " + e);
         }
-        printInfo(obj.getClass());
     }
 }
