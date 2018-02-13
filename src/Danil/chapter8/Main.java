@@ -27,7 +27,7 @@ public class Main {
             orchestra[j] = music.next();
         }
             for(Instrument i : orchestra) {
-                if(i instanceof Wind) 
+                if(i instanceof Wind)
                     ((Wind)i).clearSpitValve();
                 i.adjust();
         }
