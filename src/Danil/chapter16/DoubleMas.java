@@ -1,8 +1,10 @@
 package Danil.chapter16;
-import java.util.*;
+
+import java.util.Arrays;
 
 public class DoubleMas {
-    static double[][] createArray(int size1, int size2, double start, double end) {
+    static double[][] createArray(int size1, int size2,
+                                  double start, double end) {
         if(!(start < end)) {
             System.out.println("Start must be less than end");
             return null;
