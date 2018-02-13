@@ -26,6 +26,11 @@ public class Main {
         for (int j = 0; j < orchestra.length; j++) {
             orchestra[j] = music.next();
         }
+            for(Instrument i : orchestra) {
+                if(i instanceof Wind) 
+                    ((Wind)i).clearSpitValve();
+                i.adjust();
+        }
 
         music.tuneAll(orchestra);
 
