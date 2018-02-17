@@ -1,10 +1,14 @@
 package Danil.chapter16;
-import java.util.*;
-public class IntValue {
+
+public class IntValue implements Comparable<IntValue> {
     protected int x;
 
     IntValue(int x) {
         this.x = x;
+    }
+
+    public int compareTo(IntValue b) {
+        return (this.x < b.x ? -1 : (this.x == b.x ? 0 : 1));
     }
 
     IntValue(){

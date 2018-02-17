@@ -13,5 +13,11 @@ public class ComparingArray {
         System.out.println(Arrays.toString(i1));
         System.out.println(Arrays.toString(i2));
         System.out.println(Arrays.equals(i1, i2));
+
+        IntValue[] i3 = { new IntValue(1), new IntValue(2), new IntValue(3), new IntValue(4), new IntValue(5) };
+        System.out.println(Arrays.toString(i3));
+        Arrays.sort(i3);
+        int index = Arrays.binarySearch(i3, new IntValue(3));
+        System.out.println("Index: " + index + ", " + i3[index]);
     }
 }
