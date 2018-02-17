@@ -5,8 +5,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.TreeSet;
 
-;
-
 public class TextFile extends ArrayList<String> {
   // Read a file as a single string:
   public static String read(String fileName) {
