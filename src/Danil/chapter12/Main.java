@@ -1,4 +1,4 @@
-package Danil.chapter12;
+package danil.chapter12;
 
 public class Main {
     public static void main(String[] args){

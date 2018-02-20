@@ -1,4 +1,4 @@
-package Danil.chapter8;
+package danil.chapter8;
 
 public class Guitar extends Stringed {
     void play(Note n){

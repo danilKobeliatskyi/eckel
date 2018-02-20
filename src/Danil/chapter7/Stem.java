@@ -1,4 +1,4 @@
-package Danil.chapter7;
+package danil.chapter7;
 
 class Component1{
     Component1(){

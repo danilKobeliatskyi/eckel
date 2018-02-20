@@ -1,4 +1,4 @@
-package Danil.debugoff;
+package danil.debugoff;
 
 public class Debug {
     public static void debug(){

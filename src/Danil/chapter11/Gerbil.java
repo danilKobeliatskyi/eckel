@@ -1,6 +1,4 @@
-package Danil.chapter11;
-
-import java.util.*;
+package danil.chapter11;
 
 public class Gerbil {
     private static int gerbilNumber;

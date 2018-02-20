@@ -1,4 +1,4 @@
-package Danil.chapter22;
+package danil.chapter22;
 
 import javax.swing.*;
 

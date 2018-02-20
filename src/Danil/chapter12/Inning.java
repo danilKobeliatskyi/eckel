@@ -1,4 +1,4 @@
-package Danil.chapter12;
+package danil.chapter12;
 
 public abstract class Inning {
     public Inning() {}

@@ -1,4 +1,4 @@
-package Danil.chapter17;
+package danil.chapter17;
 
 public class Countries {
     public static final String[][] DATA = {

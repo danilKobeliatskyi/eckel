@@ -1,4 +1,4 @@
-package Danil.debugoff;
+package danil.debugoff;
 
 public interface Inter {
     void gav();

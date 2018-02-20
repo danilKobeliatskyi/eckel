@@ -1,4 +1,4 @@
-package Danil.chapter16;
+package danil.chapter16;
 
 public class CountingGenerator {
     public static class Double implements Generator<java.lang.Double>{

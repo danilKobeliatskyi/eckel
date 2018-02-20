@@ -1,5 +1,5 @@
 //: typeinfo/pets/Mutt.java
-package Danil.chapter11;
+package danil.chapter11;
 
 public class Mutt extends Dog {
   public Mutt(String name) { super(name); }

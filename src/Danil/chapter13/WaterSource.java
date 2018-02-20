@@ -1,4 +1,4 @@
-package Danil.chapter13;
+package danil.chapter13;
 
 public class WaterSource {
     private String s;

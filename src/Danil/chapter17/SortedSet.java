@@ -1,4 +1,4 @@
-package Danil.chapter17;
+package danil.chapter17;
 import java.util.*;
 
 public class SortedSet<E> extends LinkedList<E> {

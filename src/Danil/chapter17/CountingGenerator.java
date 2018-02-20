@@ -1,5 +1,4 @@
-package Danil.chapter17;
-import Danil.chapter17.Generator;
+package danil.chapter17;
 
 public class CountingGenerator {
     public static class

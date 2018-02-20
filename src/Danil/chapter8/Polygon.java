@@ -1,4 +1,4 @@
-package Danil.chapter8;
+package danil.chapter8;
 
 public class Polygon extends Shape {
     @Override public void draw() {

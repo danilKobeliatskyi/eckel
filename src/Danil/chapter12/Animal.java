@@ -1,4 +1,4 @@
-package Danil.chapter12;
+package danil.chapter12;
 
 public class Animal extends LivingCreature {
     private Characteristic p = new Characteristic("has heart");

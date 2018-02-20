@@ -1,4 +1,4 @@
-package Danil.chapter7;
+package danil.chapter7;
 
 public class Cleanser {
     public static String s = "Cleanser";

@@ -1,4 +1,4 @@
-package Danil.chapter17;
+package danil.chapter17;
 
 public class SList<E> {
     private Link<E> headLink = new Link<E>(null);

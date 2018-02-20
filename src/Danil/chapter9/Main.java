@@ -1,10 +1,10 @@
-package Danil.chapter9;
+package danil.chapter9;
 
 import java.util.Scanner;
 
-import static Danil.chapter9.Adventure.*;
-import static Danil.chapter9.Music.tuneAll;
-import static Danil.chapter9.Raising.*;
+import static danil.chapter9.Adventure.*;
+import static danil.chapter9.Music.tuneAll;
+import static danil.chapter9.Raising.*;
 
 public class Main {
 

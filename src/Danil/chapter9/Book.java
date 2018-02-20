@@ -1,6 +1,6 @@
-package Danil.chapter9;
+package danil.chapter9;
 
-import Danil.chapter8.Page;
+import danil.chapter8.Page;
 
 public class Book implements Page {
 

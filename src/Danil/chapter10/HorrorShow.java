@@ -1,4 +1,4 @@
-package Danil.chapter10;
+package danil.chapter10;
 
 public class HorrorShow extends DragonZilla{
     static void u(Monster b){b.menace();}

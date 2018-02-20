@@ -1,4 +1,4 @@
-package Danil.chapter14;
+package danil.chapter14;
 
 public class ClassHierarchy {
     public static void Hierarchy(Object o) {

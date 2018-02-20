@@ -1,4 +1,4 @@
-package Danil.chapter12;
+package danil.chapter12;
 
 public class TreatmentException1 {
     public static void f() throws Exception1 {

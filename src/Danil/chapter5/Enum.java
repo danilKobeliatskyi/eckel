@@ -1,4 +1,4 @@
-package Danil.chapter5;
+package danil.chapter5;
 
 enum Valute{
     DOLLARS, EURO, GRIVNA, RUBL, FRANKS, SHEIKEL

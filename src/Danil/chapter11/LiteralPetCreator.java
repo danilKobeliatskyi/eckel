@@ -1,6 +1,6 @@
 //: typeinfo/pets/LiteralPetCreator.java
 // Using class literals.
-package Danil.chapter11;
+package danil.chapter11;
 
 import java.util.*;
 

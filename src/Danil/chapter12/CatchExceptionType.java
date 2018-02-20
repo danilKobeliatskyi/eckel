@@ -1,4 +1,4 @@
-package Danil.chapter12;
+package danil.chapter12;
 
 public class CatchExceptionType {
     private static Integer[] x = new Integer[1];

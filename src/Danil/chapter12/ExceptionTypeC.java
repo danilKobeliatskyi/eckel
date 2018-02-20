@@ -1,4 +1,4 @@
-package Danil.chapter12;
+package danil.chapter12;
 
 public class ExceptionTypeC extends Exception {
     ExceptionTypeC(String msg) {

@@ -1,8 +1,8 @@
-package Danil.chapter22;
+package danil.chapter22;
 
 import javax.swing.*;
 import java.awt.*;
-import static Danil.chapter22.SwingConsole.*;
+import static danil.chapter22.SwingConsole.*;
 
 public class Button1 extends JFrame {
     private JButton b1 = new JButton("Button1"), b2 = new JButton("Button2");

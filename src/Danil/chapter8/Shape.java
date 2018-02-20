@@ -1,4 +1,4 @@
-package Danil.chapter8;
+package danil.chapter8;
 
 import java.util.Iterator;
 import java.util.Random;

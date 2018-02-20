@@ -1,4 +1,4 @@
-package Danil.chapter8;
+package danil.chapter8;
 
 public class Square extends Shape {
     @Override public void draw() {

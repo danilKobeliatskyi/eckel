@@ -1,4 +1,4 @@
-package Danil.chapter11;
+package danil.chapter11;
 
 public class Number {
     public static int counter = 0;

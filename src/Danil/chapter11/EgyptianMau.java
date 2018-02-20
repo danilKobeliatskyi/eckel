@@ -1,5 +1,5 @@
 //: typeinfo/pets/EgyptianMau.java
-package Danil.chapter11;
+package danil.chapter11;
 
 public class EgyptianMau extends Cat {
   public EgyptianMau(String name) { super(name); }

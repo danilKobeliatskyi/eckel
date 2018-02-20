@@ -1,4 +1,4 @@
-package Danil.debug;
+package danil.debug;
 
 public interface IzolInterface {
 

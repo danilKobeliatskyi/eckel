@@ -1,4 +1,4 @@
-package Danil.chapter9;
+package danil.chapter9;
 
 public class Mouse implements Rodent {
 

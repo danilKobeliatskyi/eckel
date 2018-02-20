@@ -1,4 +1,4 @@
-package Danil.chapter8;
+package danil.chapter8;
 
 class Meal{
     Meal(){System.out.println("Meal");}

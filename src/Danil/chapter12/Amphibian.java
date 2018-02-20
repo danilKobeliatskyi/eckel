@@ -1,4 +1,4 @@
-package Danil.chapter12;
+package danil.chapter12;
 
 public class Amphibian extends Animal {
     private Characteristic p = new Characteristic("can live in water");

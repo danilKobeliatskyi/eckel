@@ -1,4 +1,4 @@
-package Danil.chapter12;
+package danil.chapter12;
 
 public class Inherit extends Base {
     Inherit() throws BaseException {

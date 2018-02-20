@@ -1,4 +1,4 @@
-package Danil.chapter11;
+package danil.chapter11;
 
 public class Disposable {
     private static int counter = 0;

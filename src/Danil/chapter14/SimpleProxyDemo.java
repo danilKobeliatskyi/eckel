@@ -1,4 +1,4 @@
-package Danil.chapter14;
+package danil.chapter14;
 
 public class SimpleProxyDemo {
     public static void consumer(Interface iface) {

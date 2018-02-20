@@ -1,4 +1,4 @@
-package Danil.chapter12;
+package danil.chapter12;
 
 public class Triangle extends Shape {
     Triangle(int i) {

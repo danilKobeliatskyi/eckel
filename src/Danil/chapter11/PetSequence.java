@@ -1,4 +1,4 @@
-package Danil.chapter11;
+package danil.chapter11;
 
 public class PetSequence {
     protected static Pet[] pets = Pets.createArray(8);

@@ -1,5 +1,5 @@
 //: typeinfo/pets/ForNameCreator.java
-package Danil.chapter11;
+package danil.chapter11;
 import java.util.*;
 
 public class ForNameCreator extends PetCreator {

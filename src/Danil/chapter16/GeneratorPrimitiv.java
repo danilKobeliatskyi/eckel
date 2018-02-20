@@ -1,4 +1,4 @@
-package Danil.chapter16;
+package danil.chapter16;
 
 public class GeneratorPrimitiv {
     public static void main(String[] args) {

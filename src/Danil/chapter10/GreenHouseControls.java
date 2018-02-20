@@ -1,4 +1,4 @@
-package Danil.chapter10;
+package danil.chapter10;
 
 public class GreenHouseControls extends Controller {
     private boolean light = false;
@@ -56,14 +56,14 @@ public class GreenHouseControls extends Controller {
 
         public String toString() {
             return "Water off";
-        }
+       }
     }
 
     private String thermostat = "Day";
     public class ThermostatNight extends Event {
-        public ThermostatNight(long delayTime) {
+       public ThermostatNight(long delayTime) {
             super(delayTime);
-        }
+       }
 
         public void action() {
             thermostat = "Night";
@@ -147,7 +147,6 @@ public class GreenHouseControls extends Controller {
         start();
             addEvent(this);
         }
-
         public String toString(){
             return "Restart of system";
         }
@@ -189,5 +188,3 @@ public class GreenHouseControls extends Controller {
         gs.run();
     }
 }
-
-

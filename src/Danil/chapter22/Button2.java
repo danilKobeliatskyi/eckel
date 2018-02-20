@@ -1,11 +1,11 @@
-package Danil.chapter22;
+package danil.chapter22;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import static Danil.chapter22.SwingConsole.*;
+import static danil.chapter22.SwingConsole.*;
 
 public class Button2 extends JFrame{
     private JButton

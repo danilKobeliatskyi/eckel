@@ -1,4 +1,4 @@
-package Danil.chapter10;
+package danil.chapter10;
 
 import java.util.*;
 public class Controller {

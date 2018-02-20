@@ -1,4 +1,4 @@
-package Danil.chapter11;;
+package danil.chapter11;;
 
 public class Pet extends Individual {
   public Pet(String name) { super(name); }

@@ -1,4 +1,4 @@
-package Danil.chapter12;
+package danil.chapter12;
 
 public class Resumption {
     private static int[] ints = new int[2];

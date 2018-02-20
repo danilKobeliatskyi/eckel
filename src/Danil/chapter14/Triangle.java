@@ -1,4 +1,4 @@
-package Danil.chapter14;
+package danil.chapter14;
 
 public class Triangle extends Shape {
     private boolean flag = false;

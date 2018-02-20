@@ -1,4 +1,4 @@
-package Danil.chapter12;
+package danil.chapter12;
 
 public class Information {
     static void f() throws ClassException1, ClassException2{

@@ -1,6 +1,6 @@
-package Danil.chapter10;
+package danil.chapter10;
 
-import Danil.debugoff.IzolClass;
+import danil.debugoff.IzolClass;
 
 public class Inheritor extends IzolClass{
 

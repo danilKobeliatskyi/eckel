@@ -1,6 +1,6 @@
-package Danil.chapter19;
+package danil.chapter19;
 
-import static Danil.chapter19.Signal.*;
+import static danil.chapter19.Signal.*;
 
 public class TrafficLight {
     Signal color = RED;

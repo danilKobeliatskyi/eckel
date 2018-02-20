@@ -1,5 +1,5 @@
 //: typeinfo/pets/Mouse.java
-package Danil.chapter11;
+package danil.chapter11;
 
 public class Mouse extends Rodent {
   public Mouse(String name) { super(name); }

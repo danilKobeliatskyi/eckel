@@ -1,4 +1,4 @@
-package Danil.chapter13;
+package danil.chapter13;
 
 public class PrimitiveTypes {
     int i = 0;

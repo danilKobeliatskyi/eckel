@@ -1,6 +1,6 @@
-package Danil.chapter17;
+package danil.chapter17;
 
-import Danil.chapter13.TextFile;
+import danil.chapter13.TextFile;
 
 import java.util.ArrayList;
 import java.util.Set;
@@ -8,7 +8,7 @@ import java.util.TreeSet;
 
 public class WordCounter {
     public static void main(String[] args) {
-        String fileName = "C:\\Users\\Danil\\IdeaProjects\\eckel\\src\\Danil\\chapter17\\WordCounter.java";
+        String fileName = "C:\\Users\\Danil\\IdeaProjects\\eckel\\src\\danil\\chapter17\\WordCounter.java";
         Set<String> words = new TreeSet<String>(new TextFile(fileName, "\\W+"));
         AssociativeArray<String,Integer> wordCount = new AssociativeArray<String,Integer>(words.size());
         ArrayList<String> fileList = new TextFile(fileName, "\\W+");

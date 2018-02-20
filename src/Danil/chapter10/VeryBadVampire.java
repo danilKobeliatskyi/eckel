@@ -1,4 +1,4 @@
-package Danil.chapter10;
+package danil.chapter10;
 
 public class VeryBadVampire implements Monster, Lethal {
     Monster dangerousMonster(){

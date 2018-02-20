@@ -1,4 +1,4 @@
-package Danil.chapter13;
+package danil.chapter13;
 
 public class SprinklerSystem {
     private String valve1, valve2, valve3, valve4;

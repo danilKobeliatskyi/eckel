@@ -1,4 +1,4 @@
-package Danil.chapter9;
+package danil.chapter9;
 
 public class Hero extends ActionCharacter implements CanFight, CamSwim, CanFly, CanClimb{
 

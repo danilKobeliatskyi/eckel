@@ -1,7 +1,6 @@
-package Danil.chapter14;
+package danil.chapter14;
 
 import java.lang.reflect.InvocationHandler;
-import java.util.*;
 import java.lang.reflect.*;
 
 public class DynamicProxyHandler implements InvocationHandler {

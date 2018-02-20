@@ -1,4 +1,4 @@
-package Danil.chapter5;
+package danil.chapter5;
 
 public class StaticMetod {
     static String s1 = "at the poin";

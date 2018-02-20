@@ -1,6 +1,6 @@
-package Danil.debugoff;
+package danil.debugoff;
 
-import Danil.debug.IzolInterface;
+import danil.debug.IzolInterface;
 
 public class IzolClass {
 

@@ -1,7 +1,7 @@
-package Danil.chapter5;
-import Danil.chapter6.Exercise1;
-import Danil.chapter6.Widget;
-import Danil.debugoff.Debug;
+package danil.chapter5;
+import danil.chapter6.Exercise1;
+import danil.chapter6.Widget;
+import danil.debugoff.Debug;
 
 
 public class Main {
@@ -71,8 +71,8 @@ public class Main {
         VariableLength v = new VariableLength();
         v.f(args);
 
-        Danil.chapter5.Enum.simpleEnum();
-        Danil.chapter5.Enum.countrie();
+        danil.chapter5.Enum.simpleEnum();
+        danil.chapter5.Enum.countrie();
 
         Exercise1.exercise();
 
