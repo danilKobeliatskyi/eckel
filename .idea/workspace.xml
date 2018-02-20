@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/ArrayAndLinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/SList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/SListIterator.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,33 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListCountries.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/ListCountries.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Countries.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/Countries.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1700">
               <caret line="100" column="40" lean-forward="false" selection-start-line="100" selection-start-column="40" selection-end-line="100" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountriesThatBeginWithA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/CountriesThatBeginWithA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -83,16 +64,66 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayAndLinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayAndLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/ArrayAndLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="310">
               <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
               <folding>
                 <element signature="e#83#113#0" expanded="true" />
                 <element signature="e#205#213#0" expanded="true" />
                 <element signature="e#297#305#0" expanded="true" />
                 <element signature="e#1277#1285#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/SList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+              <folding>
+                <element signature="e#126#134#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SListIterator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/SListIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Link.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/Link.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,10 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Danil/chapter14/MakeSecret.java" />
-        <option value="$PROJECT_DIR$/src/Danil/chapter14/Find.java" />
-        <option value="$PROJECT_DIR$/src/Danil/chapter14/Instrument.java" />
-        <option value="$PROJECT_DIR$/src/Danil/chapter8/Instrument.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter8/Note.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter8/Wind.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter8/Percussion.java" />
@@ -187,6 +214,10 @@
         <option value="$PROJECT_DIR$/src/Danil/chapter17/Unsupported.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/ArrayAndLincedList.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/ArrayAndLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter17/Link.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter17/SListIterator.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter17/SList.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter17/Main.java" />
       </list>
     </option>
   </component>
@@ -286,7 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayAndLinkedList">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ArrayAndLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -325,14 +356,14 @@
       <module name="eckel" />
       <envs />
     </configuration>
-    <configuration name="CountriesThatBeginWithA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="InitializedCountries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Danil.chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Danil.chapter17.CountriesThatBeginWithA" />
+      <option name="MAIN_CLASS_NAME" value="Danil.chapter17.InitializedCountries" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -344,14 +375,14 @@
       <module name="eckel" />
       <envs />
     </configuration>
-    <configuration name="InitializedCountries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Danil.chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Danil.chapter17.InitializedCountries" />
+      <option name="MAIN_CLASS_NAME" value="Danil.chapter17.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -398,19 +429,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CountriesThatBeginWithA" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ConteinersOfCountries" />
-      <item index="2" class="java.lang.String" itemvalue="Application.InitializedCountries" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Unsupported" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ArrayAndLinkedList" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ConteinersOfCountries" />
+      <item index="1" class="java.lang.String" itemvalue="Application.InitializedCountries" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Unsupported" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ArrayAndLinkedList" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ArrayAndLinkedList" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Unsupported" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ConteinersOfCountries" />
-        <item index="3" class="java.lang.String" itemvalue="Application.InitializedCountries" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CountriesThatBeginWithA" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ArrayAndLinkedList" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Unsupported" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ConteinersOfCountries" />
+        <item index="4" class="java.lang.String" itemvalue="Application.InitializedCountries" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +518,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25976768" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25976768" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -521,34 +552,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter8/Guitar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter8/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter16/BerylliumSphere.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter16/MassivObj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Danil/chapter16/IntArgument.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -874,13 +877,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/ArrayAndLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="310">
           <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
           <folding>
             <element signature="e#83#113#0" expanded="true" />
             <element signature="e#205#213#0" expanded="true" />
             <element signature="e#297#305#0" expanded="true" />
             <element signature="e#1277#1285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/Link.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/SListIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/SList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding>
+            <element signature="e#126#134#0" expanded="true" />
           </folding>
         </state>
       </provider>
