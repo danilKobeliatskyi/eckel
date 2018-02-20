@@ -1,5 +1,9 @@
 package Danil.chapter17;
 
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.TreeMap;
+
 public class Main {
     public static void main(String[] args){
         SList<String> sl = new SList<String>();
@@ -60,5 +64,67 @@ public class Main {
         ss3.add("two");
         ss3.add("one");
         System.out.print(ss3);
+
+        AssociativeArray<String, String> map = new AssociativeArray<>(6);
+        map.put("Sky", "blue");
+        map.put("Grass", "green");
+        map.put("Ocean", "dancing");
+        map.put("Tree", "tall");
+        map.put("Ears", "brown");
+        map.put("Sun", "warm");
+
+        try {
+            map.put("extra", "object");
+        }catch (ArrayIndexOutOfBoundsException e){
+            System.out.println(e);
+        }
+        System.out.println(map);
+        System.out.println(map.get("ocean"));
+
+        HashMap<String,String> hashMap = new HashMap<String,String>(6);
+        hashMap.put("sky", "blue");
+        hashMap.put("grass", "green");
+        hashMap.put("ocean", "dancing");
+        hashMap.put("tree", "tall");
+        hashMap.put("earth", "brown");
+        hashMap.put("sun", "warm");
+        try {
+            hashMap.put("extra", "object");
+        } catch(ArrayIndexOutOfBoundsException e) {
+            System.out.println(e);
+        }
+        System.out.println(hashMap);
+        System.out.println(hashMap.get("ocean"));
+
+        TreeMap<String,String> treeMap = new TreeMap<String,String>();
+        treeMap.put("sky", "blue");
+        treeMap.put("grass", "green");
+        treeMap.put("ocean", "dancing");
+        treeMap.put("tree", "tall");
+        treeMap.put("earth", "brown");
+        treeMap.put("sun", "warm");
+        try {
+            treeMap.put("extra", "object");
+        } catch(ArrayIndexOutOfBoundsException e) {
+            System.out.println(e);
+        }
+        System.out.println(treeMap);
+        System.out.println(treeMap.get("ocean"));
+
+        LinkedHashMap<String,String> linkedHashMap =
+                new LinkedHashMap<String,String>(6);
+        linkedHashMap.put("sky", "blue");
+        linkedHashMap.put("grass", "green");
+        linkedHashMap.put("ocean", "dancing");
+        linkedHashMap.put("tree", "tall");
+        linkedHashMap.put("earth", "brown");
+        linkedHashMap.put("sun", "warm");
+        try {
+            linkedHashMap.put("extra", "object"); // Too far
+        } catch(ArrayIndexOutOfBoundsException e) {
+            System.out.println(e);
+        }
+        System.out.println(linkedHashMap);
+        System.out.println(linkedHashMap.get("ocean"));
     }
 }
