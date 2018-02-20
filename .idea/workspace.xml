@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/AlphabeticSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/CountingGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/Generator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/RandomGenerator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/SortedSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/T.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,26 +29,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+            <state relative-caret-position="565">
+              <caret line="61" column="30" lean-forward="false" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
               <folding>
                 <element signature="e#126#134#0" expanded="true" />
+                <element signature="e#1656#1665#0" expanded="true" />
+                <element signature="e#1865#1873#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AlphabeticSort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AlphabeticSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/AlphabeticSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="e#168#176#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortedSet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/SortedSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="T.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/T.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -123,16 +144,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TextFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Danil/chapter13/TextFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -161,7 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Danil/chapter8/Brass.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter8/Woodwind.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter8/Guitar.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter8/Music.java" />
@@ -207,11 +217,12 @@
         <option value="$PROJECT_DIR$/src/Danil/chapter17/Link.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/SListIterator.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/SList.java" />
-        <option value="$PROJECT_DIR$/src/Danil/chapter17/Main.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/AlphabeticSort.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/Generator.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/CountingGenerator.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/RandomGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter17/Main.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter17/SortedSet.java" />
       </list>
     </option>
   </component>
@@ -311,7 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AlphabeticSort">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AlphabeticSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -431,8 +442,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.AlphabeticSort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AlphabeticSort" />
         <item index="2" class="java.lang.String" itemvalue="Application.ArrayAndLinkedList" />
         <item index="3" class="java.lang.String" itemvalue="Application.Unsupported" />
         <item index="4" class="java.lang.String" itemvalue="Application.ConteinersOfCountries" />
@@ -545,20 +556,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter16/TwoIntArguments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter16/TMassiv.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Danil/chapter16/Banana.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -791,7 +788,7 @@
         <state relative-caret-position="323">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -885,16 +882,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-          <folding>
-            <element signature="e#126#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/Generator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -932,10 +919,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/AlphabeticSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="e#168#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/SortedSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="61" column="30" lean-forward="false" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+          <folding>
+            <element signature="e#126#134#0" expanded="true" />
+            <element signature="e#1656#1665#0" expanded="true" />
+            <element signature="e#1865#1873#0" expanded="true" />
           </folding>
         </state>
       </provider>
