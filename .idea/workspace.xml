@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/SortedSet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/T.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/IntegerRealization.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Danil/chapter17/IntegerTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,19 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Unsupported.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/Unsupported.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-302">
-              <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-              <folding>
-                <element signature="e#317#325#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="565">
@@ -38,6 +25,31 @@
                 <element signature="e#126#134#0" expanded="true" />
                 <element signature="e#1656#1665#0" expanded="true" />
                 <element signature="e#1865#1873#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntegerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/IntegerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <folding>
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntegerRealization.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/IntegerRealization.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#211#224#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,19 +143,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Link.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/Link.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -172,8 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Danil/chapter8/Woodwind.java" />
-        <option value="$PROJECT_DIR$/src/Danil/chapter8/Guitar.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter8/Music.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter8/Main.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter16/BerylliumSphere.java" />
@@ -223,6 +220,8 @@
         <option value="$PROJECT_DIR$/src/Danil/chapter17/RandomGenerator.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/Main.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/SortedSet.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter17/IntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/Danil/chapter17/IntegerRealization.java" />
       </list>
     </option>
   </component>
@@ -322,7 +321,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.IntegerRealization">
     <configuration name="AlphabeticSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -361,14 +360,14 @@
       <module name="eckel" />
       <envs />
     </configuration>
-    <configuration name="ConteinersOfCountries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegerRealization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Danil.chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Danil.chapter17.ConteinersOfCountries" />
+      <option name="MAIN_CLASS_NAME" value="Danil.chapter17.IntegerRealization" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -434,19 +433,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ConteinersOfCountries" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Unsupported" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ArrayAndLinkedList" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Application.AlphabeticSort" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Unsupported" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ArrayAndLinkedList" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AlphabeticSort" />
+      <item index="4" class="java.lang.String" itemvalue="Application.IntegerRealization" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AlphabeticSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ArrayAndLinkedList" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Unsupported" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ConteinersOfCountries" />
+        <item index="0" class="java.lang.String" itemvalue="Application.IntegerRealization" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AlphabeticSort" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ArrayAndLinkedList" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Unsupported" />
       </list>
     </recent_temporary>
   </component>
@@ -513,6 +512,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -556,20 +556,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter16/Banana.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Danil/chapter16/Peel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Danil/chapter16/PeelBanana.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -951,6 +937,27 @@
             <element signature="e#126#134#0" expanded="true" />
             <element signature="e#1656#1665#0" expanded="true" />
             <element signature="e#1865#1873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/IntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Danil/chapter17/IntegerRealization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#211#224#0" expanded="true" />
           </folding>
         </state>
       </provider>
