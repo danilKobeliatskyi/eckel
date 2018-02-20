@@ -12,7 +12,7 @@ public class WordCounter {
         Set<String> words = new TreeSet<String>(new TextFile(fileName, "\\W+"));
         AssociativeArray<String,Integer> wordCount = new AssociativeArray<String,Integer>(words.size());
         ArrayList<String> fileList = new TextFile(fileName, "\\W+");
-        
+
         for(String s : words) {
             int count = 0;
             for(String t : fileList) {
