@@ -2,401 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter19/CartoonCharacter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter19/Course.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter19/Enums.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter19/Food.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter19/Meal.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/A.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/B.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/B.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/BaseWithInnerClass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/BaseWithInnerClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/BetterGreenHouse.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/BetterGreenHouse.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/ClassWhithLink.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/ClassWhithLink.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/CloseClass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/CloseClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/Conclusion.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/Conclusion.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/Controller.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/Controller.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/DragonZilla.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/DragonZilla.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/Event.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/Event.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/ExternalClass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/ExternalClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/ExternalClass2.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/ExternalClass2.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/GreenHouseControls.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/GreenHouseControls.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/HorrorShow.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/HorrorShow.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/InheritInnerClass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/InheritInnerClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/Inheritor.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/Inheritor.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/InterfaceForInnerClass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/InterfaceForInnerClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/InterfaceWithInnerClass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/InterfaceWithInnerClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/Lethal.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/Lethal.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/Monster.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/Monster.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/Out.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/Out.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/Outer.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/Outer.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/Selector.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/Selector.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/SelectorString.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/SelectorString.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/Sequence.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/Sequence.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/Sheath.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/Sheath.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/U.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/U.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/VeryBadVampire.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/VeryBadVampire.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/WithNestedClass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/WithNestedClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter10/WithoutDefaultConstructor.java" afterPath="$PROJECT_DIR$/src/Danil/chapter10/WithoutDefaultConstructor.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Build.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Build.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Cat.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Cat.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/ClassWithIteratorForCollection.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/ClassWithIteratorForCollection.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/CollectionSequence.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/CollectionSequence.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Command.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Command.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/ConteinerLincedList.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/ConteinerLincedList.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Cymric.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Cymric.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Disposable.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Disposable.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Dog.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Dog.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/EgyptianMau.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/EgyptianMau.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/FailingConstructor.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/FailingConstructor.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/ForNameCreator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/ForNameCreator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Generator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Generator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Gerbil.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Gerbil.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Hamster.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Hamster.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Individual.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Individual.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/InterfaceVsIterator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/InterfaceVsIterator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/ListFeatures.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/ListFeatures.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/ListIterator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/ListIterator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/ListNum.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/ListNum.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/LiteralPetCreator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/LiteralPetCreator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Manx.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Manx.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Mouse.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Mouse.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Mutt.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Mutt.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/NonCollectionSequence.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/NonCollectionSequence.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Number.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Number.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Person.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Person.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Pet.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Pet.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/PetCreator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/PetCreator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/PetSequence.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/PetSequence.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Pets.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Pets.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/PriorityQueueDemo.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/PriorityQueueDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Pug.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Pug.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/QueuDemo.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/QueuDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Queues.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Queues.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Rat.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Rat.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Rodent.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Rodent.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/SimpleClass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/SimpleClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/SimpleCollection.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/SimpleCollection.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Statistics.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Statistics.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/TestStack.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/TestStack.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/TextFile.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/TextFile.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter11/Vowels.java" afterPath="$PROJECT_DIR$/src/Danil/chapter11/Vowels.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/A.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Amphibian.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Amphibian.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Animal.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Animal.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Annoyance.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Annoyance.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/B.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/B.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Base.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Base.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/BaseException.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/BaseException.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/BaseballException.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/BaseballException.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/C.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/C.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/CADSystem.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/CADSystem.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/CatchExceptionType.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/CatchExceptionType.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Characteristic.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Characteristic.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Circle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Circle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/ClassException1.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/ClassException1.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/ClassException2.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/ClassException2.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Description.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Description.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Disposable.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Disposable.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/EmptyLink.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/EmptyLink.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Exception1.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Exception1.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/ExceptionF.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/ExceptionF.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/ExceptionGenerator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/ExceptionGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/ExceptionH.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/ExceptionH.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/ExceptionTypeA.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/ExceptionTypeA.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/ExceptionTypeB.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/ExceptionTypeB.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/ExceptionTypeC.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/ExceptionTypeC.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/FailingConstructor.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/FailingConstructor.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Foul.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Foul.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Frog.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Frog.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/HoHumException.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/HoHumException.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Human.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Human.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Information.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Information.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Inherit.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Inherit.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Inning.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Inning.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/LevelOneException.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/LevelOneException.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/LevelThreeException.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/LevelThreeException.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/LevelTwoException.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/LevelTwoException.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Line.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Line.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/LivingCreature.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/LivingCreature.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/LostMessage.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/LostMessage.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/MainException.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/MainException.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/MeaninglessException.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/MeaninglessException.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/MyException.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/MyException.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/OnOffException1.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/OnOffException1.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/OnOffException2.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/OnOffException2.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/OnOffSwitch.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/OnOffSwitch.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/PopFoul.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/PopFoul.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/RainedOut.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/RainedOut.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Resumption.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Resumption.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Selector.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Selector.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Sequence.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Sequence.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Shape.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Shape.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Sneeze.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Sneeze.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Specification.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Specification.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Storm.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Storm.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/StormException.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/StormException.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/StormyInning.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/StormyInning.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Strike.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Strike.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Switch.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Switch.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Test.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/ThreeLevels.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/ThreeLevels.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/ThrownFromGame.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/ThrownFromGame.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Treatment.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Treatment.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/TreatmentException1.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/TreatmentException1.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Triangle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Triangle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/TryInTry.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/TryInTry.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/Turtle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/Turtle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/UmpireArgument.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/UmpireArgument.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/VeryImportantException.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/VeryImportantException.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/WithFinally.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/WithFinally.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter12/WrapCheckedExceptions.java" afterPath="$PROJECT_DIR$/src/Danil/chapter12/WrapCheckedExceptions.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/Conversion.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/Conversion.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/DiferentScanner.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/DiferentScanner.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/Groups.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/Groups.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/InfiniteRecursion.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/InfiniteRecursion.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/JGrep.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/JGrep.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/PrimitiveTypes.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/PrimitiveTypes.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/Receipt.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/Receipt.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/RegularExpression.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/RegularExpression.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/Replacing.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/Replacing.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/Sentence.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/Sentence.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/SplitDemo.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/SplitDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/Splitting.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/Splitting.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/SprinklerSystem.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/SprinklerSystem.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/StartEnd.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/StartEnd.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/TestRegularExpression.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/TestRegularExpression.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/TextFile.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/TextFile.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter13/WaterSource.java" afterPath="$PROJECT_DIR$/src/Danil/chapter13/WaterSource.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/A.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/B.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/B.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/C.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/C.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Candy.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Candy.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/ClassHierarchy.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/ClassHierarchy.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Cookie.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Cookie.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Cycle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Cycle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/DynamicProxyHandler.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/DynamicProxyHandler.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/FancyToy.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/FancyToy.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Find.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Find.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Gum.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Gum.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/HasBatteries.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/HasBatteries.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/HavVoice.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/HavVoice.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Interf.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Interf.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Interface.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Interface.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/MakeSecret.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/MakeSecret.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/RealObject.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/RealObject.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Rhomboid.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Rhomboid.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Secret.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Secret.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Shape.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Shape.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Shoots.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Shoots.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/ShowMethods.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/ShowMethods.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/SimpleDynamicProxy.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/SimpleDynamicProxy.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/SimpleProxy.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/SimpleProxy.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/SimpleProxyDemo.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/SimpleProxyDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Square.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Square.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/SweetShop.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/SweetShop.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Toy.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Toy.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/ToyTest.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/ToyTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Triangle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Triangle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/Waterproof.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/Waterproof.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter14/WhatIsAnMassifChar.java" afterPath="$PROJECT_DIR$/src/Danil/chapter14/WhatIsAnMassifChar.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/A.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/ArrayOfGenerics.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/ArrayOfGenerics.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/Banana.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/Banana.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/BerylliumSphere.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/BerylliumSphere.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/ComparingArray.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/ComparingArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/CopyArray.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/CopyArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/CountingGenerator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/CountingGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/DoubleMas.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/DoubleMas.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/Generator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/Generator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/GeneratorPrimitiv.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/GeneratorPrimitiv.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/InitialisiertDoubleMass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/InitialisiertDoubleMass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/IntArgument.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/IntArgument.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/IntValue.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/IntValue.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/MassivObj.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/MassivObj.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/MultidimensionalArray.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/MultidimensionalArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/MyList.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/MyList.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/Peel.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/Peel.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/PeelBanana.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/PeelBanana.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/PytonList.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/PytonList.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/SortArray.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/SortArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/TMassiv.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/TMassiv.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/TripleMas.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/TripleMas.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter16/TwoIntArguments.java" afterPath="$PROJECT_DIR$/src/Danil/chapter16/TwoIntArguments.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/AlphabeticSort.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/AlphabeticSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/ArrayAndLinkedList.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/ArrayAndLinkedList.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/AssociativeArray.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/AssociativeArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/ConteinersOfCountries.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/ConteinersOfCountries.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/CountingGenerator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/CountingGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/Countries.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/Countries.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/CountriesThatBeginWithA.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/CountriesThatBeginWithA.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/Generator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/Generator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/IntegerRealization.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/IntegerRealization.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/IntegerTest.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/IntegerTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/Link.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/Link.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/ListCountries.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/ListCountries.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/RandomGenerator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/RandomGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/SList.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/SList.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/SListIterator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/SListIterator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/SortedSet.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/SortedSet.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/T.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/T.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/Unsupported.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/Unsupported.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/WordCounter.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/WordCounter.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter19/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter19/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter19/Signal.java" afterPath="$PROJECT_DIR$/src/Danil/chapter19/Signal.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter19/TrafficLight.java" afterPath="$PROJECT_DIR$/src/Danil/chapter19/TrafficLight.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter22/Button1.java" afterPath="$PROJECT_DIR$/src/Danil/chapter22/Button1.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter22/Button2.java" afterPath="$PROJECT_DIR$/src/Danil/chapter22/Button2.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter22/HelloSwing.java" afterPath="$PROJECT_DIR$/src/Danil/chapter22/HelloSwing.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter22/SubmitLabelManipulationTask.java" afterPath="$PROJECT_DIR$/src/Danil/chapter22/SubmitLabelManipulationTask.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter22/SubmitSwingProgram.java" afterPath="$PROJECT_DIR$/src/Danil/chapter22/SubmitSwingProgram.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter22/SwingConsole.java" afterPath="$PROJECT_DIR$/src/Danil/chapter22/SwingConsole.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter5/Dog.java" afterPath="$PROJECT_DIR$/src/Danil/chapter5/Dog.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter5/Enum.java" afterPath="$PROJECT_DIR$/src/Danil/chapter5/Enum.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter5/Home.java" afterPath="$PROJECT_DIR$/src/Danil/chapter5/Home.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter5/InitializationSection.java" afterPath="$PROJECT_DIR$/src/Danil/chapter5/InitializationSection.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter5/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter5/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter5/Massivs.java" afterPath="$PROJECT_DIR$/src/Danil/chapter5/Massivs.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter5/MetodFinalize.java" afterPath="$PROJECT_DIR$/src/Danil/chapter5/MetodFinalize.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter5/StaticMetod.java" afterPath="$PROJECT_DIR$/src/Danil/chapter5/StaticMetod.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter5/Tank.java" afterPath="$PROJECT_DIR$/src/Danil/chapter5/Tank.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter5/Test.java" afterPath="$PROJECT_DIR$/src/Danil/chapter5/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter5/VariableLength.java" afterPath="$PROJECT_DIR$/src/Danil/chapter5/VariableLength.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter5/WitoutConstructor.java" afterPath="$PROJECT_DIR$/src/Danil/chapter5/WitoutConstructor.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter6/ConnectionManager.java" afterPath="$PROJECT_DIR$/src/Danil/chapter6/ConnectionManager.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter6/DifferentMetods.java" afterPath="$PROJECT_DIR$/src/Danil/chapter6/DifferentMetods.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter6/Exercise1.java" afterPath="$PROJECT_DIR$/src/Danil/chapter6/Exercise1.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter6/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter6/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter6/ProtectedMetod.java" afterPath="$PROJECT_DIR$/src/Danil/chapter6/ProtectedMetod.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter6/Widget.java" afterPath="$PROJECT_DIR$/src/Danil/chapter6/Widget.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/Beets.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/Beets.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/Car.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/Car.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/Cleanser.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/Cleanser.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/DeferredInitialization.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/DeferredInitialization.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/Derivative.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/Derivative.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/DerivedClass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/DerivedClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/DetergentDelegation.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/DetergentDelegation.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/Donut.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/Donut.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/FinalData.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/FinalData.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/Frog.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/Frog.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/PrivatFinal.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/PrivatFinal.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/Stem.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/Stem.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/StemDispose.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/StemDispose.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/StemWithArgs.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/StemWithArgs.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter7/Viol.java" afterPath="$PROJECT_DIR$/src/Danil/chapter7/Viol.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/AlertStatus.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/AlertStatus.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Badger.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Badger.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Brass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Brass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Characteristic.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Characteristic.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Circle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Circle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Composing.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Composing.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Cycle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Cycle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Footbol.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Footbol.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Glyph.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Glyph.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Guitar.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Guitar.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Hamster.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Hamster.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Instrument.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Instrument.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Mouse.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Mouse.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Music.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Music.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Note.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Note.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Page.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Page.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Percussion.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Percussion.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Polygon.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Polygon.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Rat.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Rat.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/RectangularGlyph.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/RectangularGlyph.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Rodent.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Rodent.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/RodentGenerator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/RodentGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/RoundGlyph.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/RoundGlyph.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Sandwich.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Sandwich.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Shape.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Shape.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Shared.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Shared.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Ship.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Ship.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Square.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Square.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Starship.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Starship.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/StarshipHighAlert.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/StarshipHighAlert.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/StarshipLowAlert.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/StarshipLowAlert.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/StarshipMiddleAlert.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/StarshipMiddleAlert.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Stringed.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Stringed.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Triangle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Triangle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Wind.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Wind.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter8/Woodwind.java" afterPath="$PROJECT_DIR$/src/Danil/chapter8/Woodwind.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/AbstractClass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/AbstractClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/ActionCharacter.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/ActionCharacter.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Adventure.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Adventure.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Area.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Area.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Badger.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Badger.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Bicycle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Bicycle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/BicycleFactory.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/BicycleFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Book.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Book.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Brass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Brass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Bread.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Bread.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/CamSwim.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/CamSwim.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/CanClimb.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/CanClimb.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/CanFight.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/CanFight.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/CanFly.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/CanFly.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Car.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Car.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Cheese.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Cheese.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Coin.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Coin.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Cycle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Cycle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/CycleFactory.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/CycleFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Cycles.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Cycles.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Dice.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Dice.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Document.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Document.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Dore.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Dore.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Engine.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Engine.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Enum.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Enum.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/FastFood.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/FastFood.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Furniture.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Furniture.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Grass.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Grass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Hamster.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Hamster.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Hero.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Hero.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Instrument.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Instrument.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/InterfaceEnum.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/InterfaceEnum.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Lettuce.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Lettuce.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Lunch.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Lunch.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Main.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Meal.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Meal.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Mouse.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Mouse.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Music.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Music.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/MusicalInstrument.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/MusicalInstrument.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Note.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Note.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Paper.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Paper.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Percussion.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Percussion.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Pickle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Pickle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Plant.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Plant.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Play.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Play.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Playable.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Playable.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/PortableLunch.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/PortableLunch.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Raising.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Raising.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Rat.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Rat.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Rodent.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Rodent.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Sandwich.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Sandwich.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/SpeedCar.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/SpeedCar.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Stringed.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Stringed.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Table.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Table.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Throw.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Throw.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Transformation.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Transformation.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Transformer.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Transformer.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Tree.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Tree.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Tricycle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Tricycle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/TricycleFactory.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/TricycleFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/TrowFactory.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/TrowFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Unicycle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Unicycle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/UnicycleFactory.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/UnicycleFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Vehicle.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Vehicle.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Wills.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Wills.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Wind.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Wind.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter9/Woodwind.java" afterPath="$PROJECT_DIR$/src/Danil/chapter9/Woodwind.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/debug/Debug.java" afterPath="$PROJECT_DIR$/src/Danil/debug/Debug.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/debug/IzolInterface.java" afterPath="$PROJECT_DIR$/src/Danil/debug/IzolInterface.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/debugoff/Debug.java" afterPath="$PROJECT_DIR$/src/Danil/debugoff/Debug.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/debugoff/Gavmo.java" afterPath="$PROJECT_DIR$/src/Danil/debugoff/Gavmo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/debugoff/Inter.java" afterPath="$PROJECT_DIR$/src/Danil/debugoff/Inter.java" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/debugoff/IzolClass.java" afterPath="$PROJECT_DIR$/src/Danil/debugoff/IzolClass.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -431,15 +41,65 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CartoonCharacter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CartoonCharacter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/danil/chapter19/CartoonCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="e#224#225#0" expanded="true" />
                 <element signature="e#286#287#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Food.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/danil/chapter19/Food.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/danil/chapter19/Course.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enums.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/danil/chapter19/Enums.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <folding>
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Meal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/danil/chapter19/Meal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -472,10 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Danil/chapter16/ArrayOfGenerics.java" />
-        <option value="$PROJECT_DIR$/src/Danil/chapter16/GeneratorPrimitiv.java" />
-        <option value="$PROJECT_DIR$/../mindview/TIJ4-code/examples/net/mindview/util/Generator.java" />
-        <option value="$PROJECT_DIR$/src/Danil/chapter16/Generator.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter16/CountingGenerator.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter16/InitialisiertDoubleMass.java" />
         <option value="$PROJECT_DIR$/src/Danil/debug/Sd.java" />
@@ -523,6 +179,10 @@
         <option value="$PROJECT_DIR$/src/danil/chapter19/CartoonCharacte.java" />
         <option value="$PROJECT_DIR$/src/danil/chapter19/CartoonCharacter.java" />
         <option value="$PROJECT_DIR$/src/danil/chapter19/Main.java" />
+        <option value="$PROJECT_DIR$/src/danil/chapter19/Food.java" />
+        <option value="$PROJECT_DIR$/src/danil/chapter19/Meal.java" />
+        <option value="$PROJECT_DIR$/src/danil/chapter19/Course.java" />
+        <option value="$PROJECT_DIR$/src/danil/chapter19/Enums.java" />
       </list>
     </option>
   </component>
@@ -622,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Meal">
     <configuration name="IntegerRealization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -631,25 +291,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Danil.chapter17.IntegerRealization" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="eckel" />
-      <envs />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Danil.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Danil.chapter17.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -688,6 +329,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="danil.chapter19.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="eckel" />
+      <envs />
+    </configuration>
+    <configuration name="Meal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="danil.chapter19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="danil.chapter19.Meal" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -753,19 +413,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.IntegerRealization" />
-      <item index="2" class="java.lang.String" itemvalue="Application.WordCounter" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TrafficLight" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.IntegerRealization" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WordCounter" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TrafficLight" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Meal" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Meal" />
         <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TrafficLight" />
-        <item index="3" class="java.lang.String" itemvalue="Application.WordCounter" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TrafficLight" />
+        <item index="4" class="java.lang.String" itemvalue="Application.WordCounter" />
       </list>
     </recent_temporary>
   </component>
@@ -842,7 +502,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25976768" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25976768" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -876,34 +536,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/danil/chapter13/Replacing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/danil/chapter13/Receipt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/danil/chapter13/JGrep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/danil/chapter13/InfiniteRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/danil/chapter13/Groups.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1366,12 +998,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/danil/chapter19/CartoonCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#224#225#0" expanded="true" />
             <element signature="e#286#287#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/danil/chapter19/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/danil/chapter19/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/danil/chapter19/Enums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/danil/chapter19/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
