@@ -1,0 +1,32 @@
+1: package danil.chapter18;
+2: import java.io.*;
+3: 
+4: public class BasicFileOutputComparator {
+5:     static String file = "BasicFileOutputComparator.out";
+6:     static String file2 = "BasicFileOutputComparator2.out";
+7:     public static void main(String[] args) throws IOException {
+8:         BufferedReader in = new BufferedReader(
+9:                 new StringReader(BufferedInputFile.read("C:\\Users\\Danil\\IdeaProjects\\eckel\\src\\danil\\chapter18\\\\BasicFileOutputComparator.java")));
+10:         PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(file)));
+11:         int lineCount = 1;
+12:         String s;
+13:         long start = System.nanoTime();
+14:         while((s = in.readLine()) != null )
+15:             out.println(lineCount++ + ": " + s);
+16:         long duration = System.nanoTime() - start;
+17:         out.close();
+18:         System.out.println("Buffered write:   " + duration + " nanoseconds");
+19:         BufferedReader in2 = new BufferedReader(new StringReader(BufferedInputFile.read("C:\\Users\\Danil\\IdeaProjects\\eckel\\src\\danil\\chapter18\\\\BasicFileOutputComparator.java")));
+20:         PrintWriter out2 = new PrintWriter(new FileWriter(file2));
+21:         int lineCount2 = 1;
+22:         String s2;
+23:         long start2 = System.nanoTime();
+24:         while((s2 = in2.readLine()) != null )
+25:             out2.println(lineCount2++ + ": " + s2);
+26:         long duration2 = System.nanoTime() - start2;
+27:         out2.close();
+28:         System.out.println("Unbuffered write: " + duration2 + " nanoseconds");
+29:         System.out.println("file: " + BufferedInputFile.read(file));
+30:         System.out.println("file2: " + BufferedInputFile.read(file2));
+31:     }
+32: }
