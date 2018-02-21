@@ -14,7 +14,7 @@ public class CountingGenerator {
         private byte value = 0;
         public java.lang.Byte next() { return value++; }
     }
-    static char[] chars = ("abcdefghijklmnopqrstuvwxyz" +
+    public static char[] chars = ("abcdefghijklmnopqrstuvwxyz" +
             "ABCDEFGHIJKLMNOPQRSTUVWXYZ").toCharArray();
     public static class
     Character implements Generator<java.lang.Character> {
@@ -27,7 +27,7 @@ public class CountingGenerator {
     public static class
     String implements Generator<java.lang.String> {
         private int length = 7;
-        Generator<java.lang.Character> cg = new Character();
+        public Generator<java.lang.Character> cg = new Character();
         public String() {}
         public String(int length) { this.length = length; }
         public java.lang.String next() {
