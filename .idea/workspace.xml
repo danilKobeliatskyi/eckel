@@ -39,10 +39,11 @@
       <file leaf-file-name="ReverseLines.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/danil/chapter18/ReverseLines.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="55" lean-forward="false" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+            <state relative-caret-position="187">
+              <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#311#319#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -344,7 +345,7 @@
       </extension>
       <option name="MAIN_CLASS_NAME" value="danil.chapter18.ReverseLines" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="C:\\Users\\Danil\\IdeaProjects\\eckel\\src\\danil\\chapter18\\ReverseLines.java append System" />
+      <option name="PROGRAM_PARAMETERS" value="D:\\Notes\\notes.txt" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -745,10 +746,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/danil/chapter18/ReverseLines.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="55" lean-forward="false" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        <state relative-caret-position="187">
+          <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#311#319#0" expanded="true" />
           </folding>
         </state>
       </provider>
