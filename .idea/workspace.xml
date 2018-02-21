@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter18/ModifiedAfter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter18/ReverseLines.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/danil/chapter18/ReverseLines.java" afterPath="$PROJECT_DIR$/src/danil/chapter18/ReverseLines.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,10 +39,11 @@
       <file leaf-file-name="ReverseLines.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/danil/chapter18/ReverseLines.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="103" lean-forward="false" selection-start-line="19" selection-start-column="103" selection-end-line="19" selection-end-column="103" />
+            <state relative-caret-position="204">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#311#319#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -345,9 +344,9 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="danil.chapter18.ReverseLines" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="C:\\Users\\Danil\\IdeaProjects\\eckel\\src\\danil\\chapter18\\ReverseLines.java" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -747,10 +746,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/danil/chapter18/ReverseLines.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="103" lean-forward="false" selection-start-line="19" selection-start-column="103" selection-end-line="19" selection-end-column="103" />
+        <state relative-caret-position="204">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#311#319#0" expanded="true" />
           </folding>
         </state>
       </provider>
