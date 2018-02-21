@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0476fa09-ac38-4bd7-99a1-43e67fb99627" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter20/Constraints.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter20/DBTable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter20/Divider.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter20/ExtractInterface.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter20/Multiplier.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter20/SQLString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/danil/chapter18/SortedDirList.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Danil/chapter17/CountingGenerator.java" afterPath="$PROJECT_DIR$/src/Danil/chapter17/CountingGenerator.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +18,7 @@
       <file leaf-file-name="Enums.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/danil/chapter19/Enums.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="119">
               <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
               <folding>
                 <element signature="e#199#200#0" expanded="true" />
@@ -36,12 +30,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExtractInterface.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExtractInterface.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/danil/chapter20/ExtractInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortedDirList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/danil/chapter18/SortedDirList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#483#491#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,7 +78,7 @@
       <file leaf-file-name="DBTable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/danil/chapter20/DBTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="119">
               <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -107,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Danil/chapter17/ArrayAndLinkedList.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/Link.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/SListIterator.java" />
         <option value="$PROJECT_DIR$/src/Danil/chapter17/SList.java" />
@@ -158,6 +166,7 @@
         <option value="$PROJECT_DIR$/src/danil/chapter20/SQLInteger.java" />
         <option value="$PROJECT_DIR$/src/danil/chapter20/Constraints.java" />
         <option value="$PROJECT_DIR$/src/danil/chapter20/SQLString.java" />
+        <option value="$PROJECT_DIR$/src/danil/chapter18/SortedDirList.java" />
       </list>
     </option>
   </component>
@@ -189,8 +198,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -209,13 +218,6 @@
               <item name="eckel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="danil" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eckel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eckel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="danil" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter20" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Divider">
+  <component name="RunManager" selected="Application.SortedDirList">
     <configuration name="Divider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -266,25 +268,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="danil.chapter20.Divider" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="eckel" />
-      <envs />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="danil.chapter19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="danil.chapter19.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -323,6 +306,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="danil.chapter19.Meal2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="eckel" />
+      <envs />
+    </configuration>
+    <configuration name="SortedDirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="danil.chapter18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="danil.chapter18.SortedDirList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -389,17 +391,17 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.TrafficLight" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Meal" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Meal2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.VowelsAndConsonants" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Divider" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Meal2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.VowelsAndConsonants" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Divider" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SortedDirList" />
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Divider" />
-        <item index="1" class="java.lang.String" itemvalue="Application.VowelsAndConsonants" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Meal2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Meal" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SortedDirList" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Divider" />
+        <item index="2" class="java.lang.String" itemvalue="Application.VowelsAndConsonants" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Meal2" />
       </list>
     </recent_temporary>
   </component>
@@ -478,7 +480,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25976768" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25976768" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -512,7 +514,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/danil/chapter17/SList.java" />
     <entry file="file://$PROJECT_DIR$/src/danil/chapter17/Generator.java" />
     <entry file="file://$PROJECT_DIR$/src/danil/chapter17/CountingGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -587,7 +588,7 @@
     <entry file="file://$PROJECT_DIR$/src/danil/chapter19/VowelsAndConsonants.java" />
     <entry file="file://$PROJECT_DIR$/src/danil/chapter19/Enums.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="119">
           <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
           <folding>
             <element signature="e#199#200#0" expanded="true" />
@@ -598,19 +599,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/danil/chapter20/Photo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/danil/chapter20/Photo.java" />
     <entry file="file://$PROJECT_DIR$/../mindview/TIJ4-code/examples/annotations/database/DBTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="49" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="8" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,7 +635,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/danil/chapter20/DBTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="119">
           <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -655,7 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="33" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="9" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="49" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="9" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,27 +673,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/danil/chapter20/SQLInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/danil/chapter20/TableCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="88" column="17" lean-forward="true" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/danil/chapter20/SQLInteger.java" />
+    <entry file="file://$PROJECT_DIR$/src/danil/chapter20/TableCreator.java" />
     <entry file="file://$PROJECT_DIR$/src/danil/chapter20/ExtractInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/danil/chapter18/SortedDirList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#483#491#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
