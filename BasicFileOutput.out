@@ -1,0 +1,15 @@
+1: package danil.chapter18;
+2: import java.io.*;
+3: 
+4: public class BasicFileOutput {
+5:     static String file = "BasicFileOutput.out";
+6:     public static void main(String[] args) throws IOException {
+7:         LineNumberReader in = new LineNumberReader(new FileReader("C:\\Users\\Danil\\IdeaProjects\\eckel\\src\\danil\\chapter18\\BasicFileOutput.java"));
+8:         PrintWriter out = new PrintWriter(file);
+9:         String s;
+10:         while((s = in.readLine()) != null )
+11:             out.println(in.getLineNumber() + ": " + s);
+12:         out.close();
+13:         System.out.println(BufferedInputFile.read(file));
+14:     }
+15: }
